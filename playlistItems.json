@@ -1,15 +1,95 @@
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/3i1vVY4tEn7IHwsdVVHYBge2Lzo\"",
+ "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/V4B5lpVmBtPJr-Ru48V7ip_6TGI\"",
  "nextPageToken": "CDIQAA",
  "pageInfo": {
-  "totalResults": 368,
+  "totalResults": 370,
   "resultsPerPage": 50
  },
  "items": [
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/MwxL9q_peDUzgix7TCJarcq1Vsg\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/mXVjdWUjo9c7CmJy1FVWE9oS2Pc\"",
+   "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLndNc3l6bWxmSDZv",
+   "snippet": {
+    "publishedAt": "2020-03-08T14:43:50.000Z",
+    "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+    "title": "VẬY CŨNG VUI - MỸ TÂM | Phương Mỹ Chi Cover",
+    "description": "Bài hát: Vậy Cũng Vui\nSáng tác: Mỹ Tâm\nCover by: Phương Mỹ Chi\n\n#phuongmychi #vaycungvui #mytam\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wMsyzmlfH6o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wMsyzmlfH6o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wMsyzmlfH6o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Phương Mỹ Chi",
+    "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wMsyzmlfH6o"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/_3bt8dkfgAA1O4OwUgkIuH89_Ns\"",
+   "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmNOT3BRTDNHUVF3",
+   "snippet": {
+    "publishedAt": "2020-03-06T02:49:26.000Z",
+    "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+    "title": "[Cover] PHƯƠNG MỸ CHI x VŨ ĐIỆU RỬA TAY \"GHEN CÔ VY\"",
+    "description": "Hưởng ứng phong trào đẩy lùi dịch bệnh Covid-19\nBiên đạo: QUANG ĐĂNG\nCover by: PHƯƠNG MỸ CHI\n\n#phuongmychi #ghencovychallenge #corona",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cNOpQL3GQQw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cNOpQL3GQQw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cNOpQL3GQQw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/cNOpQL3GQQw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/cNOpQL3GQQw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Phương Mỹ Chi",
+    "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "cNOpQL3GQQw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/VZVJQVM6MqMSSAqajUqxmQo58vE\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnFlbWFFU0pXTkhz",
    "snippet": {
     "publishedAt": "2020-02-27T13:50:58.000Z",
@@ -45,7 +125,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 0,
+    "position": 2,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "qemaESJWNHs"
@@ -54,7 +134,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/BB03SdIJTNfWsRGPFyUsJ8KD3k0\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/QOgkw3q-EdZjJPfNOuMwergb4Iw\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmxad1c2T2xxRFdr",
    "snippet": {
     "publishedAt": "2020-02-27T13:46:33.000Z",
@@ -90,7 +170,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 1,
+    "position": 3,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "lZwW6OlqDWk"
@@ -99,7 +179,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/FgmUKXwP9vhJ65bzKy1eBJ63cIs\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/V70EHSfOzy2fF91ogKr2Ngu4QmY\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLndDMFVKU2U0VERF",
    "snippet": {
     "publishedAt": "2020-02-27T13:47:33.000Z",
@@ -135,7 +215,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 2,
+    "position": 4,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "wC0UJSe4TDE"
@@ -144,7 +224,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/mUr7igrTURC5Z6U5U76mO6TrAbE\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/j8DxuHgYekRWFY3al_qLJNCivCM\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnBrLTVTMTVMNUZ3",
    "snippet": {
     "publishedAt": "2020-02-24T13:11:38.000Z",
@@ -180,7 +260,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 3,
+    "position": 5,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "pk-5S15L5Fw"
@@ -189,7 +269,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/dLYwvV6rYfl3MbliSkO9nR7SUFA\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/Yd93zDr8yGHARDhza1ZD0V9JcZk\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmFkN3k2R3B0QWg4",
    "snippet": {
     "publishedAt": "2020-02-17T08:03:58.000Z",
@@ -225,7 +305,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 4,
+    "position": 6,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "ad7y6GptAh8"
@@ -234,7 +314,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/d-4ZCEaYX12v9ccRGxLiMhirzBA\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/NituoS3E65lXVB8NQyPrO5sLAgM\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmd6QV9yeHBXLVJv",
    "snippet": {
     "publishedAt": "2020-02-12T02:49:52.000Z",
@@ -270,7 +350,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 5,
+    "position": 7,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "gzA_rxpW-Ro"
@@ -279,7 +359,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/dEfkStng224mUGudF7ynGZfF21c\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/B5E7ZQVxEIu1n5ZVSpGWjK0gnyI\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLlJUZEJTcTZlelg4",
    "snippet": {
     "publishedAt": "2020-01-30T04:34:42.000Z",
@@ -315,7 +395,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 6,
+    "position": 8,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "RTdBSq6ezX8"
@@ -324,7 +404,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/RplzebubHGHrbvh5Iwv4xq3Y5LE\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/G6Mah4Gr2tAaK9qiSMLxnUNhG90\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLi1PVEtXOTRZYnBZ",
    "snippet": {
     "publishedAt": "2020-01-28T12:19:37.000Z",
@@ -360,7 +440,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 7,
+    "position": 9,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "-OTKW94YbpY"
@@ -369,7 +449,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/49bIi98XTN00pUl85OgRl_ZjwDk\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/9OX-Cr3HmLzWSzVvTyHNVT7-bTM\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLkxFNFFUZ2UtSlJB",
    "snippet": {
     "publishedAt": "2020-01-19T13:00:13.000Z",
@@ -405,7 +485,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 8,
+    "position": 10,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "LE4QTge-JRA"
@@ -414,7 +494,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/pIAT9-rjonRGItvFayC9D0hLwjE\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/0uNXLwCCMoXDd7q_a3XzgCk9_B0\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLk4xeDNnUEpOdUww",
    "snippet": {
     "publishedAt": "2020-01-13T17:45:00.000Z",
@@ -450,7 +530,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 9,
+    "position": 11,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "N1x3gPJNuL0"
@@ -459,7 +539,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/9tkfu72VPQae8yCl_tYPc8G5BnQ\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/yytZDkoS4Dr4QqzHdGvSIjaYMTk\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLlZQSzM2V2dpSEZF",
    "snippet": {
     "publishedAt": "2020-01-12T13:00:11.000Z",
@@ -495,7 +575,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 10,
+    "position": 12,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "VPK36WgiHFE"
@@ -504,7 +584,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/8uIEFXYP_OcvoSkW3ssE1fy7uhQ\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/pkkuBJFMzRgbhUaBH6s4nKI8NA4\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnNQMGYtNWJ1Tm1n",
    "snippet": {
     "publishedAt": "2020-01-14T13:00:10.000Z",
@@ -540,7 +620,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 11,
+    "position": 13,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "sP0f-5buNmg"
@@ -549,7 +629,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/VlIEmgofEl0BR74SB5Afw3LrfF8\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/WS-kbTV3nYnhm5BM3UbWJoWNlHc\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnRTTW1hYmttVFlV",
    "snippet": {
     "publishedAt": "2020-01-11T06:10:54.000Z",
@@ -585,7 +665,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 12,
+    "position": 14,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "tSMmabkmTYU"
@@ -594,7 +674,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/-2qRBw5psfNGSzzahyNzDupQy_c\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/IxxDVo2KL1uAS7b46l-mRFOPajg\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmNHNjQtTnk2Z2Rv",
    "snippet": {
     "publishedAt": "2020-01-09T13:30:11.000Z",
@@ -620,7 +700,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 13,
+    "position": 15,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "cG64-Ny6gdo"
@@ -629,7 +709,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/lcmcoIo_5oWvLL_4xm1Wiz5M--I\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/tLboeiZodRG8gILSjqiZokD-Etk\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnNvay1RX1dkeVln",
    "snippet": {
     "publishedAt": "2020-01-06T13:03:03.000Z",
@@ -665,7 +745,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 14,
+    "position": 16,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "sok-Q_WdyYg"
@@ -674,7 +754,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/N7zdJz8xVo_IsMrj-U_ssJ8k0E4\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/gEnFFo7t7EV0wobG97GEgxCgrI4\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnNsdDBHUnVCZGhF",
    "snippet": {
     "publishedAt": "2020-01-02T13:21:13.000Z",
@@ -710,7 +790,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 15,
+    "position": 17,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "slt0GRuBdhE"
@@ -719,7 +799,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/2Wfd0LSVgR7pWyAgp5fXBfs1ZM8\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/r9XPpytz3Nhch8hYfC3K-E3ePoY\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmVQMUdIbXdlRVlV",
    "snippet": {
     "publishedAt": "2019-11-23T13:00:12.000Z",
@@ -755,7 +835,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 16,
+    "position": 18,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "eP1GHmweEYU"
@@ -764,7 +844,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/NrFwtWuk_8filEsLqheq6JyAjGQ\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/UU58lKJlMPoaJe6GN0zGug0fkGw\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLjdZUnFNc09hM21Z",
    "snippet": {
     "publishedAt": "2019-10-29T13:00:16.000Z",
@@ -795,7 +875,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 17,
+    "position": 19,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "7YRqMsOa3mY"
@@ -804,7 +884,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/F-LpokF5UylXWekNwTgQ5hrkJ7k\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/2p7SIYantgARTAOVBjp9PtldyGs\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLm9kck1QRDJteFdz",
    "snippet": {
     "publishedAt": "2019-10-10T04:58:34.000Z",
@@ -840,7 +920,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 18,
+    "position": 20,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "odrMPD2mxWs"
@@ -849,7 +929,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/xnSxPTVjopXLdlXI-DIY_DLGPEs\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/zVEeg74FBqS2t_qKaU2rf7A0MCU\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLl9UVjJ3cXVOR1NR",
    "snippet": {
     "publishedAt": "2019-10-06T04:01:57.000Z",
@@ -885,7 +965,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 19,
+    "position": 21,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "_TV2wquNGSQ"
@@ -894,7 +974,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/1sOGIX5LdUIQUq1jEuuSOIjEsn4\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/gIZTKnjiRJWu9F3Dayn0NwKfSn0\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLndZUmRPakNfRUtR",
    "snippet": {
     "publishedAt": "2019-10-06T04:03:45.000Z",
@@ -925,7 +1005,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 20,
+    "position": 22,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "wYRdOjC_EKQ"
@@ -934,7 +1014,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/dobNsaT3R1mZk2SM1Um9Bz1T7Jw\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/bf2cM_iqYwtPhdpfvkQ06-hxeZg\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLlB2NUpMM3kyQV84",
    "snippet": {
     "publishedAt": "2019-09-26T07:21:10.000Z",
@@ -970,7 +1050,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 21,
+    "position": 23,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "Pv5JL3y2A_8"
@@ -979,7 +1059,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/GjoBCxfteTLiyEybshMe_u5bbmo\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/Tn760wOnwNUrZDfhs7fKiN5mitE\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLjNEN0VNY2RmTVdF",
    "snippet": {
     "publishedAt": "2019-09-18T13:00:10.000Z",
@@ -1015,7 +1095,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 22,
+    "position": 24,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "3D7EMcdfMWE"
@@ -1024,7 +1104,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/zcLIPU6DayCjZzpvBkrYwNAX7Lo\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/SS0O0f6Dk52FzQiWyZ_o7rFDqBw\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLm0yNHgyMmFZMWF3",
    "snippet": {
     "publishedAt": "2019-09-10T13:30:14.000Z",
@@ -1060,7 +1140,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 23,
+    "position": 25,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "m24x22aY1aw"
@@ -1069,7 +1149,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/DC4rNEZRk7N_ZLzvCQ1JxCI2WXo\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/GxVeXRwl1LELd0jIXaegPvfOltA\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLi1NbDZ5ODdEVDYw",
    "snippet": {
     "publishedAt": "2019-09-17T13:00:12.000Z",
@@ -1105,7 +1185,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 24,
+    "position": 26,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "-Ml6y87DT60"
@@ -1114,7 +1194,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/VLiL6bfqvTDCcMyvcrHOosPfJVE\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/DwwOGVWl3sPIFH4ZczgnatXHV6o\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLkcxTVI3U0dVVUFv",
    "snippet": {
     "publishedAt": "2019-09-17T13:00:13.000Z",
@@ -1150,7 +1230,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 25,
+    "position": 27,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "G1MR7SGUUAo"
@@ -1159,7 +1239,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/HyKkAczV_Z65qp9FSlId10nv0OU\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/w1xkp9KWTXKy4SLKvxMxF0spgsU\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmN4clQ5SEJNX3pJ",
    "snippet": {
     "publishedAt": "2019-09-15T13:00:11.000Z",
@@ -1195,7 +1275,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 26,
+    "position": 28,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "cxrT9HBM_zI"
@@ -1204,7 +1284,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/2KWav3ZtOr_atRQXYZtRoNtdu7A\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/ZQ88w8ItiYb4ssQAqpoz0gs3j9U\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLlVUX25GR3JWTXZr",
    "snippet": {
     "publishedAt": "2019-09-15T13:00:13.000Z",
@@ -1240,7 +1320,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 27,
+    "position": 29,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "UT_nFGrVMvk"
@@ -1249,7 +1329,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/552YNdrLGh1S21eg8OqIsYJp7hM\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/YXZONRHLZ00Z5E5MnGBpVd-IT3M\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLjJjNDlTOEpJS2Nz",
    "snippet": {
     "publishedAt": "2019-09-16T13:00:11.000Z",
@@ -1285,7 +1365,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 28,
+    "position": 30,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "2c49S8JIKcs"
@@ -1294,7 +1374,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/vt1d8Nsb33KwIpMDTQuRcv0stzs\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/m0p65mw-3Q3DatviFyx0pU-ag-I\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLkdsaFl4d2w3MWcw",
    "snippet": {
     "publishedAt": "2019-09-16T13:00:12.000Z",
@@ -1330,7 +1410,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 29,
+    "position": 31,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "GlhYxwl71g0"
@@ -1339,7 +1419,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/D6sH8GDWQ_4ZZYtXcjXvkCprGVg\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/mLzs7AGpitYoGF-ScQOwTFPMLoU\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLjYxWWQ4Y1piQURF",
    "snippet": {
     "publishedAt": "2019-09-18T13:00:12.000Z",
@@ -1375,7 +1455,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 30,
+    "position": 32,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "61Yd8cZbADE"
@@ -1384,7 +1464,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/_FQrSSeDv5kNytwPU9teniF_aqM\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/LVNzebfUAx0LhB09cKog6yCxVk0\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnFnaTY2TUZoZ0Qw",
    "snippet": {
     "publishedAt": "2019-09-14T13:00:12.000Z",
@@ -1420,7 +1500,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 31,
+    "position": 33,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "qgi66MFhgD0"
@@ -1429,7 +1509,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/z3Id5d6GooAUdxsc--TSO-0Gg4w\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/VRGhesMBBSMwrMXDmt8xOKVeqxA\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnEtMFBkVk05c0dF",
    "snippet": {
     "publishedAt": "2019-09-14T13:00:11.000Z",
@@ -1465,7 +1545,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 32,
+    "position": 34,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "q-0PdVM9sGE"
@@ -1474,7 +1554,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/rQOOlDUGLWy7m5poOLBAz2crpGQ\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/DVgT3cAOAf-Wup2rHfMvc5-Qzn8\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLlRrUkk3NXpFakd3",
    "snippet": {
     "publishedAt": "2019-09-20T13:11:31.000Z",
@@ -1510,7 +1590,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 33,
+    "position": 35,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "TkRI75zEjGw"
@@ -1519,7 +1599,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/B9yDj8_qVa6kXxXn5yqlhwQXpBg\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/1UL77-ptUm5eg1Yt7-B4XGcOf80\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLndQNU5ZWWxuaWJZ",
    "snippet": {
     "publishedAt": "2019-09-20T13:11:50.000Z",
@@ -1555,7 +1635,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 34,
+    "position": 36,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "wP5NYYlnibY"
@@ -1564,7 +1644,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/6pphjktkHd_IX9c47O2_X9PU09Q\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/Nl0NlDHJBFxvd0qBpFr8N7DV2E8\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLk5sc3JkYmd0Nlhv",
    "snippet": {
     "publishedAt": "2019-09-19T13:00:11.000Z",
@@ -1600,7 +1680,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 35,
+    "position": 37,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "Nlsrdbgt6Xo"
@@ -1609,7 +1689,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/4rRnDWS6p5Bw9NRktno8pXhJhBo\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/gwPb6grIdPhRf7eZVT2Q3-a1CFg\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmpNczlQT05PMEw0",
    "snippet": {
     "publishedAt": "2019-09-19T13:00:12.000Z",
@@ -1645,7 +1725,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 36,
+    "position": 38,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "jMs9PONO0L4"
@@ -1654,7 +1734,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/eP6SPrFo-ZYc09TZlmSotVBYfxI\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/PxRMVypMXvfG0Ap4s-Z4d_peHl0\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLlR4SHJ1VEUyZm8w",
    "snippet": {
     "publishedAt": "2019-09-03T03:51:36.000Z",
@@ -1690,7 +1770,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 37,
+    "position": 39,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "TxHruTE2fo0"
@@ -1699,7 +1779,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/2R9RnV7nc84Xy4b1T_yvOAQpB_w\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/rTItDgbYcmIpe4K2HH7HHpXujiU\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLkdsZEoweW1hREFz",
    "snippet": {
     "publishedAt": "2019-08-10T10:35:19.000Z",
@@ -1735,7 +1815,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 38,
+    "position": 40,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "GldJ0ymaDAs"
@@ -1744,7 +1824,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/oi1HboQZ5_XUpgZjtq-Wr6D5KBc\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/1a084YBZSXRNTG-DjefMVd5CNUE\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLk5KYlhtTDJBcXlZ",
    "snippet": {
     "publishedAt": "2019-08-05T14:39:09.000Z",
@@ -1780,7 +1860,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 39,
+    "position": 41,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "NJbXmL2AqyY"
@@ -1789,7 +1869,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/9nrkNwtQT8zbEwZugNLnDruknME\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/LrRlgozszaKlAYP4Y3qE1TEyUvo\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLkZKU2dKUEpBaHJN",
    "snippet": {
     "publishedAt": "2019-08-05T14:38:46.000Z",
@@ -1825,7 +1905,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 40,
+    "position": 42,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "FJSgJPJAhrM"
@@ -1834,7 +1914,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/hW8aqXEc3GGY8prenoeavyCl-Mk\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/mswR9h6W0rLagJ97G7yTT3vXXNY\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLkhXOXNZTlVpcnlJ",
    "snippet": {
     "publishedAt": "2019-08-05T14:38:22.000Z",
@@ -1870,7 +1950,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 41,
+    "position": 43,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "HW9sYNUiryI"
@@ -1879,7 +1959,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/kbX-PWR-PU1rRev_FaI3VUjPDeg\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/YIzSilYzeTjb-SjWjPZfktCXo1o\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLlh0dlctTmtHN3RR",
    "snippet": {
     "publishedAt": "2019-08-02T11:09:01.000Z",
@@ -1915,7 +1995,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 42,
+    "position": 44,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "XtvW-NkG7tQ"
@@ -1924,7 +2004,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/KsUDA2Digu8xQt_alVD8rC597TI\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/oQ_U3Y_FSmn-0ahABmbFL7IPi5M\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLm4xVUNyQ29WUFhV",
    "snippet": {
     "publishedAt": "2019-06-20T12:57:48.000Z",
@@ -1960,7 +2040,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 43,
+    "position": 45,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "n1UCrCoVPXU"
@@ -1969,7 +2049,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/MQ9cAdK_rFbtMSGbrpTuB23UH-M\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/AqXuvDg4R1YZSGZiWml4p3Xbc0s\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmc4Q0pPbml1emRZ",
    "snippet": {
     "publishedAt": "2019-06-19T12:58:12.000Z",
@@ -2005,7 +2085,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 44,
+    "position": 46,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "g8CJOniuzdY"
@@ -2014,7 +2094,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/FoBCtnrEr_0f2qESVq_dJyJNSuA\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/GN3lSBQWJ0Q9Y-KZ0qaUODBC6Mk\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLlI3b1EwNlp6cGdv",
    "snippet": {
     "publishedAt": "2019-06-19T13:28:13.000Z",
@@ -2050,7 +2130,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 45,
+    "position": 47,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "R7oQ06Zzpgo"
@@ -2059,7 +2139,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/t4_RdO6XqVccq0hHA9yjq1bToD4\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/UyvrImMLY93dmkuVdiQmcg_1Ogk\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmxpOFpnUW44cDBz",
    "snippet": {
     "publishedAt": "2019-06-18T13:00:07.000Z",
@@ -2095,7 +2175,7 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 46,
+    "position": 48,
     "resourceId": {
      "kind": "youtube#video",
      "videoId": "li8ZgQn8p0s"
@@ -2104,7 +2184,7 @@
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/J50IqhGRW_369qqUmD4IEXttANs\"",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/zr_BEEfIQdqo3WRzgouCFqrSroI\"",
    "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLjE1SU9SRVI1bzRF",
    "snippet": {
     "publishedAt": "2019-06-18T12:57:46.000Z",
@@ -2140,100 +2220,10 @@
     },
     "channelTitle": "Phương Mỹ Chi",
     "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 47,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "15IORER5o4E"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/dVFTa8lERnLNXzlUxd2_Afq3qlk\"",
-   "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLkNwd25KQ2xQZFZZ",
-   "snippet": {
-    "publishedAt": "2019-06-10T13:05:58.000Z",
-    "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
-    "title": "Phương Mỹ Chi - 999 Đoá Hồng lên tone 4 lần liên tiếp | Minishow 3 | Chợ Gạo Bar",
-    "description": "Ca khúc: 999 Đóa Hồng\nSáng tác: Nhạc Hoa, Lời Việt\nTrình bày: Phương Mỹ Chi\n\nSau #minishow2 , Chị Bảy quyết định chiêu đãi khán giả thêm một bữa tiệc âm nhạc nữa tại Chợ Gạo Bar. Một không gian âm nhạc ngọt ngào sâu lắng với những ca khúc đậm chất dân ca và tình cảm du dương.\n\n#phuongmychi #999doahong #minishow3\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/CpwnJClPdVY/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/CpwnJClPdVY/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/CpwnJClPdVY/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/CpwnJClPdVY/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/CpwnJClPdVY/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Phương Mỹ Chi",
-    "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-    "position": 48,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "CpwnJClPdVY"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/hJxkiOJPiwJfqv1zCCZQ6v9nFew\"",
-   "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLm55aEZYdDB6bFBF",
-   "snippet": {
-    "publishedAt": "2019-06-22T12:57:49.000Z",
-    "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
-    "title": "Phương Mỹ Chi - Dòng Đời | Minishow 2 | Phòng trà WE",
-    "description": "Ca khúc: Dòng Đời\nSáng tác: Nguyễn Thu\nTrình bày: Phương Mỹ Chi\n\nNgày 28/04/2019 vừa qua, tại Phòng trà We, số 8 Lê Quý Đôn Q.3, Phương Mỹ Chi tiếp tục tổ chức đêm MINISHOW LẦN THỨ 2 với chủ đề “ĐẤT PHƯƠNG NAM”.\n\n#phuongmychi #dongdoi #minishow\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n________________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/nyhFXt0zlPE/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/nyhFXt0zlPE/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/nyhFXt0zlPE/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/nyhFXt0zlPE/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/nyhFXt0zlPE/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Phương Mỹ Chi",
-    "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
     "position": 49,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "nyhFXt0zlPE"
+     "videoId": "15IORER5o4E"
     }
    }
   }

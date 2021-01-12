@@ -1,11 +1,56 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "-OxA_D2eQhw4j3r8cqbZrdI8VSg",
+  "etag": "wdWoj-IumC7jzw6JrqVi886VuNE",
   "nextPageToken": "CDIQAA",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "eoEi-rRyO7fMHKm8Ick7UcYCWYg",
+      "etag": "myLkiFvTHeZyYnqHR-q2O4PVquc",
+      "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLlJ5NUdhLUZjdklR",
+      "snippet": {
+        "publishedAt": "2020-12-31T06:49:31Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "ALBUM TẾT 2021 - PHƯƠNG MỸ CHI",
+        "description": "ALBUM TẾT 2021 - PHƯƠNG MỸ CHI\n\n#PhuongMyChi #AlbumTet2021 #HienThuc #TrungQuang #Sinike\n#PMCGroup #METUBNetwork\n\n#VeQueAnTet #Gaixuan #Cauchuyendaunam #DuongVeQue #Motlandangdo #TetsungtucTetdoanvien #Canhthiepdauxuan\n\n\n🔥🛎 Follow Phương Mỹ Chi trên:\n☞ Tiktok: www.tiktok.com/@phuongmychiofficial\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi\n☞ Youtube: https://www.youtube.com/user/C7PMC\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua. Ủng hộ kênh bằng cách bấm đăng ký và nhận thông báo từ kênh nhé!\n\n© Copyright by Phương Mỹ Chi\n© Copyright by Phuong My Chi ☞ Do not Reup\n\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: pmcgroup.official@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: pmcgroup.official@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ry5Ga-FcvIQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ry5Ga-FcvIQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ry5Ga-FcvIQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ry5Ga-FcvIQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ry5Ga-FcvIQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ry5Ga-FcvIQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ji9O9X5GDk0CrzzLjQtxtyijy0A",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLkpEQ291VTdsckNv",
       "snippet": {
         "publishedAt": "2020-11-26T07:05:04Z",
@@ -41,7 +86,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 0,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "JDCouU7lrCo"
@@ -50,7 +95,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "lAsNUtg97cRjXKYN6KIPKI0NzAs",
+      "etag": "avhI3re-H0w8XQJ6LpVsm7v0RIk",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLkxCTHJKWkhBWXJB",
       "snippet": {
         "publishedAt": "2020-11-20T14:14:45Z",
@@ -86,7 +131,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 1,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "LBLrJZHAYrA"
@@ -95,52 +140,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "E0uGqL5kYdG49Wurh20TIn9FgSM",
-      "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmFsODlwR0tuUTh3",
-      "snippet": {
-        "publishedAt": "2020-11-19T03:53:45Z",
-        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
-        "title": "Phương Mỹ Chi - Thương Về Miền Trung | LIVE ON STAGE",
-        "description": "Ca khúc: Thương Về Miền Trung\nSáng tác: Châu Kỳ\nTrình bày: Phương Mỹ Chi\n\n#phuongmychi #thuongvemientrung #huongvemientrung\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychiofficial\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/al89pGKnQ8w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/al89pGKnQ8w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/al89pGKnQ8w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/al89pGKnQ8w/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/al89pGKnQ8w/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Phương Mỹ Chi",
-        "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "al89pGKnQ8w"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "SJutrXf7S7l8NABjZvy3SKIaZY0",
+      "etag": "90uf7C6_GTPqqdz35iYKyNUFpqY",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLjk3ZnFjRU96LUtV",
       "snippet": {
         "publishedAt": "2020-11-14T12:13:26Z",
@@ -230,7 +230,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qerl-HOlFsGcE8I-J-iSaf9L6N0",
+      "etag": "-x5A4RkqZFNkZitdA3DvWyYjqS4",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLjRFQi1PLWRZT040",
       "snippet": {
         "publishedAt": "2020-11-02T08:09:00Z",
@@ -275,52 +275,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ZapL4NovfGEiYpVwebZi0CDFr38",
-      "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLlNLM19HNnZHZlNj",
-      "snippet": {
-        "publishedAt": "2020-11-02T08:08:40Z",
-        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
-        "title": "Phương Mỹ Chi - Quê Em Mùa Nước Lũ (MỚI NHẤT)",
-        "description": "Ca khúc: Quê Em Mùa Nước Lũ\nSáng tác: Tiến Luân\nTrình bày: Phương Mỹ Chi\n\n#phuongmychi #queemmuanuoclu #live\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychiofficial\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/SK3_G6vGfSc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/SK3_G6vGfSc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/SK3_G6vGfSc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/SK3_G6vGfSc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/SK3_G6vGfSc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Phương Mỹ Chi",
-        "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 6,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "SK3_G6vGfSc"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "v59ewpXcZH_TinIDhxMiOo9DxWw",
+      "etag": "eRINDfQGJ5Cdkm9CMXl_44_RPOs",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmhLcjdEWUVlaklB",
       "snippet": {
         "publishedAt": "2020-10-23T08:04:19Z",
@@ -356,7 +311,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 7,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "hKr7DYEejIA"
@@ -365,7 +320,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Ky8uqj7s3vsR3yuTxrrW15pMbwQ",
+      "etag": "ts2deoajxAm1wT8bk2gg7SYS6xk",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLi1pSmdmb0ZyVEdB",
       "snippet": {
         "publishedAt": "2020-10-17T08:12:37Z",
@@ -401,7 +356,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 8,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "-iJgfoFrTGA"
@@ -410,7 +365,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "XKhrexHGdxkfCI60TlysGJBR0pI",
+      "etag": "G_FNTcjODN6sFuV2BZRe15j5plA",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLkkwTFVUVWxUbTEw",
       "snippet": {
         "publishedAt": "2020-10-13T12:53:08Z",
@@ -446,7 +401,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 9,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "I0LUTUlTm10"
@@ -455,7 +410,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "aClb7-TJl4pj325Ch8AaXciTye8",
+      "etag": "YUhLOliQY1sFbrGW6yg48OWL1n8",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmdXT3hnTWJCQk5N",
       "snippet": {
         "publishedAt": "2020-10-08T11:10:30Z",
@@ -491,7 +446,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 10,
+        "position": 9,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "gWOxgMbBBNM"
@@ -500,7 +455,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "NyK1VSbf4BToyHUqHpAe_SizfQI",
+      "etag": "aZNfXUyRjDa9MwzDEGWJmYvYBUQ",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLkRsNnpQN2x3RUJZ",
       "snippet": {
         "publishedAt": "2020-10-04T02:26:27Z",
@@ -536,7 +491,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 11,
+        "position": 10,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Dl6zP7lwEBY"
@@ -545,7 +500,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JVkkGXOFxgeS88QkKmEY6NYmj_w",
+      "etag": "e9eWoWAQM-sJ595p6rK-S93kBaQ",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLlVIQ3AydWlrdi00",
       "snippet": {
         "publishedAt": "2020-09-27T06:20:04Z",
@@ -581,7 +536,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 12,
+        "position": 11,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "UHCp2uikv-4"
@@ -590,7 +545,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UVrLq0-gxC9nqq2XJWLs9sACVT8",
+      "etag": "A76gDtyjyKu7QOLwcHbukDLIAwU",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLm5hSXc2STZWR0gw",
       "snippet": {
         "publishedAt": "2020-09-23T06:01:54Z",
@@ -626,7 +581,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 13,
+        "position": 12,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "naIw6I6VGH0"
@@ -635,7 +590,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_ZHDiX7A82EDPGcaLQgDSn1UCQ0",
+      "etag": "UQis860TWAJZbmDHHdM8GeW5ONo",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLlR4QTFxNEVDTzdV",
       "snippet": {
         "publishedAt": "2020-09-18T15:19:21Z",
@@ -671,7 +626,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 14,
+        "position": 13,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "TxA1q4ECO7U"
@@ -680,7 +635,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "0zgwtiKuJQjPcU8pwgqeHuTpoU8",
+      "etag": "D_h-BSub9ZtBUUC02alpRHa5FqE",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmxSSl91SVllQVRB",
       "snippet": {
         "publishedAt": "2020-09-16T13:30:37Z",
@@ -716,7 +671,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 15,
+        "position": 14,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "lRJ_uIYeATA"
@@ -725,7 +680,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "uzYWiw6-xbWr0LXTnv_MUzmsCT4",
+      "etag": "aMtEqprqGUzPP6hrwJlleJrPLD4",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmUxeXNiQkNYMEVj",
       "snippet": {
         "publishedAt": "2020-09-09T04:35:46Z",
@@ -756,7 +711,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 16,
+        "position": 15,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "e1ysbBCX0Ec"
@@ -765,7 +720,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "msQRK2UzilppyRYLQD7qJwx_ULY",
+      "etag": "z0tw7N7xYKhLgTKahJ5W0n5yN6I",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLk83RjdRaXFaSUdr",
       "snippet": {
         "publishedAt": "2020-09-06T08:03:43Z",
@@ -801,7 +756,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 17,
+        "position": 16,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "O7F7QiqZIGk"
@@ -810,7 +765,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JEFkI6BEY5IfHK0JHtGWbvbOcuc",
+      "etag": "SXzBXXQt2Piim_rL1O-0g0nrXHM",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLm03VGlLencxU3p3",
       "snippet": {
         "publishedAt": "2020-09-01T15:59:57Z",
@@ -841,7 +796,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 18,
+        "position": 17,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "m7TiKzw1Szw"
@@ -850,7 +805,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "vzRBFwJ8y5sbl7mkhW0fpVcsa_0",
+      "etag": "P0XPIIJ6weRNn-etLN2rScNmquQ",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLlRtSjVRbnhyVS1n",
       "snippet": {
         "publishedAt": "2020-08-29T04:38:27Z",
@@ -886,7 +841,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 19,
+        "position": 18,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "TmJ5QnxrU-g"
@@ -895,7 +850,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "aNoYjugpPiE10Tan47_ggFVBNrA",
+      "etag": "MIcIx8oHrCge-Xr15Wzmz-lBtc8",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmNpOERXeHhVWXZB",
       "snippet": {
         "publishedAt": "2020-08-21T03:35:23Z",
@@ -931,7 +886,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 20,
+        "position": 19,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ci8DWxxUYvA"
@@ -940,7 +895,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "GCblGu0GJiAiX_pdp3yrqHsuWms",
+      "etag": "N0xf39uSrZmohsMB2zPNkS46Scc",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmZYSlFINW1WTkEw",
       "snippet": {
         "publishedAt": "2020-08-09T09:10:52Z",
@@ -976,7 +931,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 21,
+        "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "fXJQH5mVNA0"
@@ -985,7 +940,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "sYbYMYONPSdE3yRhHxObvrAPWMw",
+      "etag": "AxMjB6n9Evx0f0zZgSyc_ZubAkU",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmgtaTVvR2RUMEJR",
       "snippet": {
         "publishedAt": "2020-07-30T05:26:51Z",
@@ -1021,7 +976,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 22,
+        "position": 21,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "h-i5oGdT0BQ"
@@ -1030,7 +985,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "cBPW84eIjpX20iJnooKOnmmcu5w",
+      "etag": "LhA4n_1nM5aXFKVvWh2fh5rmS9o",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLks5YTMtREtpWjM4",
       "snippet": {
         "publishedAt": "2020-06-12T06:17:40Z",
@@ -1066,7 +1021,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 23,
+        "position": 22,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "K9a3-DKiZ38"
@@ -1075,7 +1030,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "AsiWyli-5LuvLYQguP0t1QCY5bc",
+      "etag": "-SHUUpW8raFaCFCAAa5dLneLSFw",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmp5Q3pFa1I4T0c0",
       "snippet": {
         "publishedAt": "2020-06-03T08:23:58Z",
@@ -1111,7 +1066,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 24,
+        "position": 23,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jyCzEkR8OG4"
@@ -1120,7 +1075,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "q1ERf-Y_8skETfnwyjEIB-SbVe0",
+      "etag": "_x3va5-5se_c7ORCbBQDtCQfx9k",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmNvMWd3bWZDWHI4",
       "snippet": {
         "publishedAt": "2020-07-12T12:58:16Z",
@@ -1156,7 +1111,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 25,
+        "position": 24,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "co1gwmfCXr8"
@@ -1165,7 +1120,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "xNn1LtDExsNt59vPm5iljwaAs3w",
+      "etag": "H215mYuKWoEJp8pSb6i3DCHLqIE",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmRZYXhGX2pQenZJ",
       "snippet": {
         "publishedAt": "2020-06-26T22:43:59Z",
@@ -1201,7 +1156,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 26,
+        "position": 25,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "dYaxF_jPzvI"
@@ -1210,7 +1165,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "xVgLfntfbXrtnFBAUJ0C_9n30Lk",
+      "etag": "EXK4dZlDxqlrvQrUVpyBzjj5m_s",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLld2aEc1WTlWRlJB",
       "snippet": {
         "publishedAt": "2020-06-26T22:43:52Z",
@@ -1246,7 +1201,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 27,
+        "position": 26,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "WvhG5Y9VFRA"
@@ -1255,7 +1210,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "NQVxxBilAXyDy_pUhr8uq9bsWKE",
+      "etag": "qiMF8W0jNQTbD8ptp9TivB8yqvk",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnVZN0UwMDJVM3pZ",
       "snippet": {
         "publishedAt": "2020-06-21T11:42:54Z",
@@ -1291,7 +1246,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 28,
+        "position": 27,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "uY7E002U3zY"
@@ -1300,7 +1255,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JL91l78xzd7xZQe59i2eFwr7Su0",
+      "etag": "Z1n3WwMDK_5l0vW8uwG5cY2tkgg",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnpRVWtOaGJYQVRj",
       "snippet": {
         "publishedAt": "2020-06-18T03:58:05Z",
@@ -1336,7 +1291,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 29,
+        "position": 28,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "zQUkNhbXATc"
@@ -1345,7 +1300,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "GzSyzUScSpf00ayGyrpCCNDftZc",
+      "etag": "nW9fO-VgStenX-_qQFKLkefQifs",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnl5TjhHdFlQTEE0",
       "snippet": {
         "publishedAt": "2020-06-11T15:31:35Z",
@@ -1381,7 +1336,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 30,
+        "position": 29,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "yyN8GtYPLA4"
@@ -1390,7 +1345,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "3U-FDVdLsYKMoxsV_ojLnucs6Ts",
+      "etag": "cJySZ2QU5x9HIn_aDQQMC5eBXIM",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmlmZFZaVzVWallZ",
       "snippet": {
         "publishedAt": "2020-05-30T09:58:24Z",
@@ -1426,7 +1381,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 31,
+        "position": 30,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ifdVZW5VjYY"
@@ -1435,7 +1390,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Xytaj4hZRKa9qDReCJMiNuvXtaA",
+      "etag": "nKeKkacmUP1rN0NFxrgXuSgGMh0",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmhJQVJoUGpEVU9V",
       "snippet": {
         "publishedAt": "2020-05-30T09:57:47Z",
@@ -1471,7 +1426,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 32,
+        "position": 31,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "hIARhPjDUOU"
@@ -1480,7 +1435,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "w2T6MJaENvqp_fvDoyllflkz-po",
+      "etag": "FRIODsD_hw_GuhJoi87riL6HyV8",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmFpQ1dBSTZ1NW9N",
       "snippet": {
         "publishedAt": "2020-06-06T06:45:42Z",
@@ -1516,7 +1471,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 33,
+        "position": 32,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "aiCWAI6u5oM"
@@ -1525,52 +1480,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "l8se7GqHPqr1UCclA9r56MBEdw4",
-      "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLl91X2doSnowMzA4",
-      "snippet": {
-        "publishedAt": "2020-05-26T05:16:12Z",
-        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
-        "title": "Chiều Nước Lũ - Phương Mỹ Chi ft. Nam Cường",
-        "description": "#phuongmychi #namcuong #chieunuoclu\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_u_ghJz0308/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_u_ghJz0308/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_u_ghJz0308/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_u_ghJz0308/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_u_ghJz0308/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Phương Mỹ Chi",
-        "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 34,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "_u_ghJz0308"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "Vji7ns5MYW_Wjm9777KVINeapvM",
+      "etag": "Q6Y6_wtKSDQx76yyFHyf2gNJ3O4",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnRodHF6VmFMTWdF",
       "snippet": {
         "publishedAt": "2020-05-26T05:11:02Z",
@@ -1606,7 +1516,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 35,
+        "position": 33,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "thtqzVaLMgE"
@@ -1615,7 +1525,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Irw4Q2WV588EWqcFiS5nH1sLiO8",
+      "etag": "cjgHveIKmpQluBQyZB1WgJUYjvQ",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLkVKcm1qcmRLV2JB",
       "snippet": {
         "publishedAt": "2020-05-26T05:11:16Z",
@@ -1651,7 +1561,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 36,
+        "position": 34,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "EJrmjrdKWbA"
@@ -1660,7 +1570,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "HCutUqnl0Ojuqbunt0k5GqJHa2w",
+      "etag": "TsDlknqfBJfTmIKSrMf97VNFhoI",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmVoUmJwMlVWWjRR",
       "snippet": {
         "publishedAt": "2020-05-26T04:36:05Z",
@@ -1696,7 +1606,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 37,
+        "position": 35,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ehRbp2UVZ4Q"
@@ -1705,7 +1615,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PXrSanCZmpW41aqXnEAXko9fqA0",
+      "etag": "AZDZOM7TOzHrdHOvSE1gYpuOEJ4",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLl96NlUxWm1RQy1n",
       "snippet": {
         "publishedAt": "2020-05-26T04:36:40Z",
@@ -1741,7 +1651,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 38,
+        "position": 36,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_z6U1ZmQC-g"
@@ -1750,7 +1660,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "F5k0hEAM22KQAUCa4sLZUgO1C1k",
+      "etag": "3alcyRBpmMksrsF3oZbeJERGEuU",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLldhbXUxQUVaRHFZ",
       "snippet": {
         "publishedAt": "2020-05-24T11:12:05Z",
@@ -1786,7 +1696,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 39,
+        "position": 37,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Wamu1AEZDqY"
@@ -1795,7 +1705,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wgStPyBNeJwrEaOvc0gNXJq5FYU",
+      "etag": "zGRVInyE_dYuhaMAjMxvP2KSg_4",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnhNaDNkWnBINkRB",
       "snippet": {
         "publishedAt": "2020-05-18T08:25:18Z",
@@ -1831,7 +1741,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 40,
+        "position": 38,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "xMh3dZpH6DA"
@@ -1840,7 +1750,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "YlYEegVnEUWiI-1V4KQFNN5Rzzk",
+      "etag": "vcRR29_XWbQ5nOMOmri8uZavci4",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLjB2SGpUcE40ajJN",
       "snippet": {
         "publishedAt": "2020-05-18T07:47:11Z",
@@ -1876,7 +1786,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 41,
+        "position": 39,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "0vHjTpN4j2M"
@@ -1885,7 +1795,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "My6zDvwcG2WiBcg_cSaY03A2w7M",
+      "etag": "nLdUI_LKMxYtM3sbg9FGh6tQzIQ",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLjZwZWpPSXA3czBj",
       "snippet": {
         "publishedAt": "2020-05-18T07:48:53Z",
@@ -1907,21 +1817,11 @@
             "url": "https://i.ytimg.com/vi/6pejOIp7s0c/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/6pejOIp7s0c/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/6pejOIp7s0c/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 42,
+        "position": 40,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "6pejOIp7s0c"
@@ -1930,7 +1830,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "eraynvT_ZsQ6NQ5fF2AWvi8vKZw",
+      "etag": "Hj9SVc9DK4VeeSZOgprXA41HfwA",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnVsRlRUMVA2VTBn",
       "snippet": {
         "publishedAt": "2020-05-18T07:50:09Z",
@@ -1966,7 +1866,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 43,
+        "position": 41,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ulFTT1P6U0g"
@@ -1975,7 +1875,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "IhXrXCx0EfmdTPu8_HIDnRtxAM8",
+      "etag": "bMhqLRzEGCIWHepU0urvcbxnGHE",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLkV5aldSVEgyMTJr",
       "snippet": {
         "publishedAt": "2020-05-18T07:45:39Z",
@@ -2011,7 +1911,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 44,
+        "position": 42,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "EyjWRTH212k"
@@ -2020,7 +1920,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "uGU9ZmZhaZHaXgGEEohMQcC_uLE",
+      "etag": "b4dhD-6BU7wf0pYVCm_pvvTuggI",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmdVb29MTmNjRnRz",
       "snippet": {
         "publishedAt": "2020-05-18T16:23:19Z",
@@ -2056,7 +1956,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 45,
+        "position": 43,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "gUooLNccFts"
@@ -2065,7 +1965,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "HloILrDA2oA0lADWIqXW6IETDnI",
+      "etag": "vmMK3hm6mwCkbNtpedcdgnGQGuk",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLjhabFR3dU1XeGVR",
       "snippet": {
         "publishedAt": "2020-05-17T11:27:20Z",
@@ -2101,7 +2001,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 46,
+        "position": 44,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "8ZlTwuMWxeQ"
@@ -2110,7 +2010,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "GN8i39Nr7miLGhWxvTCwqCprL_k",
+      "etag": "LwJcqIS4S8NeLQPinj9D7NunfR4",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnAtbzdlaTlYR2pN",
       "snippet": {
         "publishedAt": "2020-05-11T12:01:35Z",
@@ -2146,7 +2046,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 47,
+        "position": 45,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "p-o7ei9XGjM"
@@ -2155,7 +2055,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "AdmOfh6NX7jJs9yD4Ub_FRAP1xc",
+      "etag": "QEWqmjsgA3XYTAZ_0qUim4hsq6U",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnhIUDdkUFdvS3VN",
       "snippet": {
         "publishedAt": "2020-05-11T11:16:42Z",
@@ -2191,7 +2091,7 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 48,
+        "position": 46,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "xHP7dPWoKuM"
@@ -2200,7 +2100,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Jc0WnOvPX01by1iZPSyiO8aKbTA",
+      "etag": "DFVl5Hc2q2mvrYmVfVUJcb9QYng",
       "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLmoyOGJSc1dlcmN3",
       "snippet": {
         "publishedAt": "2020-05-11T11:49:07Z",
@@ -2236,16 +2136,106 @@
         },
         "channelTitle": "Phương Mỹ Chi",
         "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 49,
+        "position": 47,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "j28bRsWercw"
         }
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5rOz30UOFfxMeh1pKMJCOTPo97M",
+      "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLk9yUzhlMkNaeGtR",
+      "snippet": {
+        "publishedAt": "2020-05-10T07:20:11Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi - Liên Hoa | Official MV Lyrics | Album \"BÁT NHÃ THUYỀN\"",
+        "description": "Ca khúc: Liên Hoa\nNhạc Hoa: Lý Ngọc Cương\nLời Việt: Quyên Phương\nTrình bày: Phương Mỹ Chi\n\n▶ Ca khúc nằm trong Album Nhạc Phật 2020 \"Bát Nhã Thuyền\" của ca sĩ Phương Mỹ Chi\n▶ Link nghe Full Album: https://youtu.be/dBtLLnrHUVA\n\n🎵 Lyrics 🎵\nHoa bay ngang trời\nHoa rơi tay người\nHương sắc nơi trần gian\nBao vấn vương ưu phiền.\n\nMơ như mây trời\nBay thênh thang giữa đời\nKhông ước mong giàu sang\nNhư giấc mơ hợp tan.\n\nNguyện một lòng như đoá Liên hoa tâm thành bên Người\nCầu nhân sinh không mang khổ đau vì Đức A Di Đà\nTừng ngày cầu an phúc trôi qua êm đềm tháng năm\nTừ trong tâm âm thanh phát lên từ bi.\n\nHớ hơ hơ hơ hơ ... Liên hoa\nHớ hơ hơ hơ hơ ... Liên hoa\nHớ hơ hơ hơ hơ ... Liên hoa\nHớ hơ hơ hơ hơ ... Liên hoa\n\n#PhuongMyChi #LienHoa #BatNhaThuyen\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychiofficial\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OrS8e2CZxkQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OrS8e2CZxkQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OrS8e2CZxkQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OrS8e2CZxkQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OrS8e2CZxkQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OrS8e2CZxkQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Dnp1POPX4TMV55ytthk773WRgbs",
+      "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLnFWWURJbWZYVkRr",
+      "snippet": {
+        "publishedAt": "2020-05-06T06:07:18Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi - Nghìn Mắt Nghìn Tay | Official MV Lyrics | Album \"BÁT NHÃ THUYỀN\"",
+        "description": "Ca khúc: Nghìn Mắt Nghìn Tay\nNhạc Hoa: Lộ Dũng\nLời Việt: Quyên Phương\nTrình bày: Phương Mỹ Chi\n\n▶ Ca khúc nằm trong Album Nhạc Phật 2020 \"Bát Nhã Thuyền\" của ca sĩ Phương Mỹ Chi\n▶ Link nghe Full Album: https://youtu.be/dBtLLnrHUVA\n\n🎵 Lyrics 🎵\nBàn tay con đang chắp nguyện, lòng con xin tâm vẹn nguyên\nBàn tay nâng chén hương đèn, cầu xin phổ độ chúng sanh\nTrần gian ai đang phát nguyện, nghìn tay ban vạn phước an\nCánh tay nối tay kết lại từ bi khắp ngàn thế gian\n\nBàn tay con đang chắp nguyện, cầu cho tâm không mù quáng\nNghìn đôi mắt đang soi về màn đêm tối tăm lòng con\nNghìn tay Phật đang hướng về dìu con qua ngàn khổ đau\nBước theo hướng đôi tay người, tìm nơi sáng tươi với bình an\n\nTình yêu bao la, phúc trong nghìn tay\nNgười ban ấm áp phát vào gió bay\nTừ bi vô biên, trí cao thông tuệ \nNghìn tay dắt qua khổ đau trần gian\n\nHận tham sân si, mấy ai chẳng mang\nNgười ban ấm áp phát vào gió bay\nTừ bi vô biên, trí cao thông tuệ\nNghìn tay dắt qua khổ nạn nhân sinh.\n\nOut:\n\nÁi hận sân si, mấy ai chẳng mang\nNgười ban ấm áp phát vào gió bay\nTừ bi vô biên, trí cao thông tuệ\nNghìn tay dắt qua khổ nạn nhân sinh.\n#PhuongMyChi #AlbumNhacPhat #NghinMatNghinTay\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychiofficial\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qVYDImfXVDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qVYDImfXVDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qVYDImfXVDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qVYDImfXVDk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qVYDImfXVDk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qVYDImfXVDk"
+        }
+      }
     }
   ],
   "pageInfo": {
-    "totalResults": 414,
+    "totalResults": 214,
     "resultsPerPage": 50
   }
 }

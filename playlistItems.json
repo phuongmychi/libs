@@ -610,51 +610,7 @@
         }
       }
     },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "90uf7C6_GTPqqdz35iYKyNUFpqY",
-      "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLjk3ZnFjRU96LUtV",
-      "snippet": {
-        "publishedAt": "2020-11-14T12:13:26Z",
-        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
-        "title": "Phương Mỹ Chi - Mưa Chiều Miền Trung | Official Music Video",
-        "description": "Ca khúc: Mưa Chiều Miền Trung\nSáng tác: Hồng Xương Long\nTrình bày: Phương Mỹ Chi\nHoà âm phối khí: Trần Vũ\nMix & Master: MC Studio\n\nĐiều hành sản xuất: PMCGROUP\nSản xuất: Mai Bảo Ngọc - Quyên Phương\nTrợ lí sản xuất: Dolly Thu - Phúc Nguyễn\nQuay phim: Bobby Hồng\nThần đèn: Dom Nghĩa\nHậu kì: Hồng Vinh Lộc - Hồ Trường Giang\nPost Production: St Digital\n\n#phuongmychi #muachieumientrung #huongvemientrung\n#PMCGroup #89sGroup\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychiofficial\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/97fqcEOz-KU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/97fqcEOz-KU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/97fqcEOz-KU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/97fqcEOz-KU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/97fqcEOz-KU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Phương Mỹ Chi",
-        "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "97fqcEOz-KU"
-        }
-      }
-    },
+   
     {
       "kind": "youtube#playlistItem",
       "etag": "tNoqnf9d_Fao_dLkghoEcvPoMy4",

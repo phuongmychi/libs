@@ -427,53 +427,7 @@
           "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
         }
       },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "nxz_Wzls5QbvwbUdnWReG1y8QzE",
-        "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLi1Zal96QjJfcm5F",
-        "snippet": {
-          "publishedAt": "2020-10-16T15:09:06Z",
-          "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
-          "title": "Phương Mỹ Chi - Hội Những Người Thất Tình | Nhạc Hoa, Lời Việt",
-          "description": "Ca khúc: Hội Những Người Thất Tình\nNhạc Hoa - Lời Việt: Quyên Phương\nTrình bày: Phương Mỹ Chi\n\n#phuongmychi #hoinhungnguoithattinh #nhachoaloiviet\n\n🎵 Lyrics 🎵\nCó thật em tối qa đã bị “ăn đá” rồi\nChúc mừng em thoát đi 1 phần đau khổ\nCó gì đâu, sao phải khóc, hãy vui lên nào\nVì chúng ta may mắn khi không lúng sâu\n\nVới tình yêu chúng ta không cần mong ngóng nhiều\nĐến thì vui, mất đi không cần tiếc nuối\nSống tự do, yêu bản thân, thích đi xa nhà\nCạn chén đi có chi đâu mà buồn lo \n\n1 ngày không xa, ta thành công \nBao chàng trai phải kím tìm em\nCó mấy anh xưa bỏ rơi\nNhân thời cơ chúng ta lật kèo\nCười lên em, không phải lo\nTrong đời ta biết bao cuộc vui\nÔi giời bận tâm chi đâu em hỡi !!!\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychiofficial\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/-Yj_zB2_rnE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/-Yj_zB2_rnE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/-Yj_zB2_rnE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/-Yj_zB2_rnE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/-Yj_zB2_rnE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Phương Mỹ Chi",
-          "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-          "position": 11,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "-Yj_zB2_rnE"
-          },
-          "videoOwnerChannelTitle": "Phương Mỹ Chi",
-          "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
-        }
-     },
+     
 
     {
       "kind": "youtube#playlistItem",

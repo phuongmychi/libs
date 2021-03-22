@@ -379,100 +379,7 @@
           "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
         }
       },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "C3YT7Avp_CV2ENo42Bpj9MjVaQA",
-        "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLkpEQ291VTdsckNv",
-        "snippet": {
-          "publishedAt": "2020-11-26T07:05:04Z",
-          "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
-          "title": "[Behind The Scenes] - MỘT LẦN DANG DỞ - PHƯƠNG MỸ CHI ft. TRUNG QUANG",
-          "description": "[Behind The Scenes] - MỘT LẦN DANG DỞ - PHƯƠNG MỸ CHI ft. TRUNG QUANG\n🎬 Link MV: https://youtu.be/LBLrJZHAYrA\n\n#phuongmychi #trungquang\n#motlandangdo #mộtlầndangdở \n#PMCGroup\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychiofficial\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/JDCouU7lrCo/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/JDCouU7lrCo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/JDCouU7lrCo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/JDCouU7lrCo/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/JDCouU7lrCo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Phương Mỹ Chi",
-          "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-          "position": 8,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "JDCouU7lrCo"
-          },
-          "videoOwnerChannelTitle": "Phương Mỹ Chi",
-          "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "ftrM7pS2dnhKsvAhPnsEMH1FB_0",
-        "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLkxCTHJKWkhBWXJB",
-        "snippet": {
-          "publishedAt": "2020-11-20T14:14:45Z",
-          "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
-          "title": "Một Lần Dang Dở - Phương Mỹ Chi ft. Trung Quang | Official Music Video",
-          "description": "Song: Một Lần Dang Dở\nComposer: Nhật Ngân\nSinger: Phương Mỹ Chi ft. Trung Quang\nArranger: Tuấn Mario\nMix & Master: Shark Prodution\n\nExcutive Producer: PMC Group\nProducer: Quyên Phương\nPhotographer: Trần Vũ Bằng\nDesign: Thư Lâm\nMakeup & hair: Hiền Lưu\nFlower: 007 Flower \nCameran & Editor: Duy Phúc\nDigital Marketing Manager: Dolly Thu\n\n#phuongmychi #trungquang #motlandangdo\n#PMCGroup\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychiofficial\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/LBLrJZHAYrA/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/LBLrJZHAYrA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/LBLrJZHAYrA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/LBLrJZHAYrA/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/LBLrJZHAYrA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Phương Mỹ Chi",
-          "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-          "position": 9,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "LBLrJZHAYrA"
-          },
-          "videoOwnerChannelTitle": "Phương Mỹ Chi",
-          "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
-        }
-      },
+     
       {
         "kind": "youtube#playlistItem",
         "etag": "08MG3A3LR5DHJhgX14K4tMk9Ad4",
@@ -1328,46 +1235,7 @@
         }
       }
     },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "SXzBXXQt2Piim_rL1O-0g0nrXHM",
-      "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLm03VGlLencxU3p3",
-      "snippet": {
-        "publishedAt": "2020-09-01T15:59:57Z",
-        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
-        "title": "[Behind The Scenes] - ĐÃ BAO GIỜ MẸ HẠNH PHÚC CHƯA - PHƯƠNG MỸ CHI",
-        "description": "[Behind The Scenes] - ĐÃ BAO GIỜ MẸ HẠNH PHÚC CHƯA - PHƯƠNG MỸ CHI \n🎵 OFFICIAL MV: https://www.youtube.com/watch?v=TmJ5QnxrU-g\n#PhuongMyChi #DaBaoGioMeHanhPhucChua #DBGMHPC\n\nExcutive Producer: PMC GROUP\nSinger: PHƯƠNG MỸ CHI\nComposer: LIÊU HƯNG - ĐINH TUẤN ANH\n\n🎵 LYRICS 🎵\nÀ ơi con nhớ tiếng ru rì rào\nNhớ lời nói ngọt ngào\nKo biết bây giờ mẹ nơi nao\nÀ ơi con muốn khóc bên mẹ\nNhư đứa trẻ... Nhưng giờ con chẳng còn thơ bé \n\nChorus:\nMẹ đã bao giờ được hạnh phúc chưa\nGồng gánh cuộc đời con qua nắng mưa\nCon xin lỗi mẹ\nVì vô tâm con ko lắng nghe\nMẹ đã bao giờ được hạnh phúc chưa\nĐôi lúc mẹ buồn nước mắt chan chứa\nNhững lúc ấy con đang ở đâu\nĐể cho đôi mắt ấy phai màu\n\nÀ ơi con nhớ tiếng ru rì rào\nNhớ lời nói ngọt ngào\nKo biết bây giờ mẹ nơi nao\nÀ ơi con muốn khóc bên mẹ\nNhư đứa trẻ\nNhưng giờ con chẳng còn thơ bé \n\nMẹ đã bao giờ được hạnh phúc chưa\nGồng gánh cuộc đời con qua nắng mưa\nCon xin lỗi mẹ\nVì vô tâm con ko lắng nghe\n\nMẹ đã bao giờ được hạnh phúc chưa\nĐôi lúc mẹ buồn nước mắt chan chứa\nNhững lúc ấy con đang ơ đâu\nĐể cho đôi mắt ấy phai màu\n\nCâu hò:\nẦu ơ ví dầu\nCầu ván đóng đinh\nCầu tre lắc lẻo\nGập ghềnh khó đi\n\nXin thời gian hãy đưa mẹ tôi quay về\nĐể lại dc nghe tiếng ru trong cơn ngủ mê\nCho tôi dc thấy nụ cươi mẹ trên môi\nMột lần thôi một lần thôi...\n\n#PMCGroup #MetubNetwork #NhacCuaTui\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychioff...\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyCh...\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/m7TiKzw1Szw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/m7TiKzw1Szw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/m7TiKzw1Szw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/m7TiKzw1Szw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Phương Mỹ Chi",
-        "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 17,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "m7TiKzw1Szw"
-        }
-      }
-    },
+
     {
       "kind": "youtube#playlistItem",
       "etag": "P0XPIIJ6weRNn-etLN2rScNmquQ",

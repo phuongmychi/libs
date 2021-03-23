@@ -2052,25 +2052,6 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7cfEao4AbZl4NiO8QEfy_FVKINk",
-      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy42MzE1QTJBMEI3NjI4Rjk5",
-      "snippet": {
-        "publishedAt": "2016-05-10T06:42:46Z",
-        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "Phương Mỹ Chi",
-        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
-        "position": 46,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "wDgw6BtH3RA"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
       "etag": "JCk0FHM0iUVyYvSovz0JVe5ig2o",
       "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy43RjU3NEIyMjFBMEIxQ0ZF",
       "snippet": {

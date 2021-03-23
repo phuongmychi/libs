@@ -3,6 +3,53 @@
   "etag": "wdWoj-IumC7jzw6JrqVi886VuNE",
   "nextPageToken": "CDIQAA",
   "items": [
+     {
+      "kind": "youtube#playlistItem",
+      "etag": "EawZ-sX8-IYMiHnb-uIpOVMY6YM",
+      "id": "UExfM0ZrTU90Y09TdWhxd0txVnhFZ0dnTmJqVlpNT3JBWC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-07-05T11:29:21Z",
+        "channelId": "UCiox3pl9bimZrznTg4uPR3w",
+        "title": "Chờ Người - Phương Mỹ Chi [Official]",
+        "description": "Bài hát : Chờ người\nCa sĩ: Phương Mỹ Chi\nAlbum: Thương Về Miền Trung\nĐã phát hành: 2018\nĐề cử: Giải Mai Vàng cho Ca sĩ hát nhạc âm hưởng dân ca và truyền thống cách mạng\nThể loại: Nhạc Bolero\n\n#phuongmychi #chonguoi\n\nMusic Video(MV) by Phương Mỹ Chi performing \"Chờ người\". Product of Quang Le Entertainment,  ©2016 Phuong My Chi Entertainment . All rights reserved.\n__________\n★ Chào mừng bạn đến với kênh chính thức của Phuong My Chi Entertainment trên Youtube, hãy đăng ký kênh để cập nhật các video mới nhất :\n ☞ https://s.phuongmychi.vn/youtube\n\n♫ Follow Phuong My Chi Official:\n☞ Facebook : https://facebook.com/phuongmychi\n☞ Instagram: https://instagram.com/phuongmychi\n\n♫ Follow Phuong My Chi Entertainment Official :\n☞ Youtube : https://youtube.com/phuongmychiofficial\n☞ Spotify: https://spoti.fi/2HXTrM\n☞ Soundcloud : https://soundcloud.com/phuongmychi\n☞ Webiste : https://phuongmychi.vn\n_________________________\n® Phương Mỹ Chi Music Entertainment Co., Ltd \nVận hành bởi : PMC Entertainment CHSA\nGiấy phép phê duyệt nội dung nghe nhìn MXH số : null, do bộ TTTT cấp ngày : null\n• Mọi vấn đề về bản quyền, vui lòng liên hệ : copyright@phuongmychi.vn",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WgaZz3K_Aeg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WgaZz3K_Aeg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WgaZz3K_Aeg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WgaZz3K_Aeg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WgaZz3K_Aeg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi Music Entertainment Vietnam",
+        "playlistId": "PL_3FkMOtcOSuhqwKqVxEgGgNbjVZMOrAX",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WgaZz3K_Aeg"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi Music Entertainment Vietnam",
+        "videoOwnerChannelId": "UCiox3pl9bimZrznTg4uPR3w"
+      }
+    },
     {
         "kind": "youtube#playlistItem",
         "etag": "Ks-054lbn76eK6QrFjYrV8_B0qw",

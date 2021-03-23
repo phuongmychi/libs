@@ -2,6 +2,2271 @@
   "kind": "youtube#playlistItemListResponse",
   "etag": "91YD6gDfdprEyvXSFIV00ltRt4A",
   "items": [
+   {
+      "kind": "youtube#playlistItem",
+      "etag": "kMtPlI5V_93q5wh1HWFzWM8Cmzk",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy4xN0EwMDIyNjM0N0FGMkUw",
+      "snippet": {
+        "publishedAt": "2020-11-02T08:24:40Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Chị Đi Tìm Em, Mưa Chiều Miền Trung - Phương Mỹ Chi | Đêm nhạc \"Thương lắm Miền Trung Ơi\"",
+        "description": "Chị Đi Tìm Em, Mưa Chiều Miền Trung - Phương Mỹ Chi | Đêm nhạc \"Thương lắm Miền Trung Ơi\"\n\n#phuongmychi #chiditimem #muachieumientrung\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychiofficial\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4EB-O-dYON4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4EB-O-dYON4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4EB-O-dYON4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4EB-O-dYON4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4EB-O-dYON4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4EB-O-dYON4"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_r4Lqz8R2klyAYQPm1G6xZllp2M",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy41MTA4RkYwMjM4QzhBNTE3",
+      "snippet": {
+        "publishedAt": "2020-11-02T08:15:00Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SK3_G6vGfSc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Gg3w8Ok0CSN_MpbgwJftGNNUgyw",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5BOUNEMEI0OUY1OEEwQzdC",
+      "snippet": {
+        "publishedAt": "2020-10-23T08:10:07Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi - Mưa Chiều Miền Trung | Đêm nhạc \"Hướng Về Miền Trung\" | Phòng trà WE",
+        "description": "Ca khúc: Mưa Chiều Miền Trung\nSáng tác: Hồng Xương Long\nTrình bày: Phương Mỹ Chi\n\n#phuongmychi #muachieumientrung #huongvemientrung\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychiofficial\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hKr7DYEejIA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hKr7DYEejIA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hKr7DYEejIA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hKr7DYEejIA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hKr7DYEejIA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hKr7DYEejIA"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v1k1N3YD136NzainNG56rIGJ7Lo",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5EMjg2Q0U4RjAyNjZDOTI2",
+      "snippet": {
+        "publishedAt": "2020-10-17T08:14:01Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi - Sa Mưa Giông | Phòng trà C-Show",
+        "description": "Ca khúc: Sa Mưa Giông\nSáng tác: Bắc Sơn\nTrình bày: Phương Mỹ Chi\n\n#phuongmychi #SaMuaGiong #Live\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychiofficial\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-iJgfoFrTGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-iJgfoFrTGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-iJgfoFrTGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-iJgfoFrTGA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-iJgfoFrTGA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-iJgfoFrTGA"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_oxQ6L1NcLRnTAm2uLdH0yMNNp8",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy42QzUzNDk3NEJCNjU2ODcx",
+      "snippet": {
+        "publishedAt": "2020-10-16T15:11:17Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi - Hội Những Người Thất Tình | Nhạc Hoa, Lời Việt",
+        "description": "Ca khúc: Hội Những Người Thất Tình\nNhạc Hoa - Lời Việt: Quyên Phương\nTrình bày: Phương Mỹ Chi\n\n#phuongmychi #hoinhungnguoithattinh #nhachoaloiviet\n\n🎵 Lyrics 🎵\nCó thật em tối qa đã bị “ăn đá” rồi\nChúc mừng em thoát đi 1 phần đau khổ\nCó gì đâu, sao phải khóc, hãy vui lên nào\nVì chúng ta may mắn khi không lúng sâu\n\nVới tình yêu chúng ta không cần mong ngóng nhiều\nĐến thì vui, mất đi không cần tiếc nuối\nSống tự do, yêu bản thân, thích đi xa nhà\nCạn chén đi có chi đâu mà buồn lo \n\n1 ngày không xa, ta thành công \nBao chàng trai phải kím tìm em\nCó mấy anh xưa bỏ rơi\nNhân thời cơ chúng ta lật kèo\nCười lên em, không phải lo\nTrong đời ta biết bao cuộc vui\nÔi giời bận tâm chi đâu em hỡi !!!\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychiofficial\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Yj_zB2_rnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Yj_zB2_rnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Yj_zB2_rnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-Yj_zB2_rnE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-Yj_zB2_rnE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-Yj_zB2_rnE"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dZREDcePj57leD1JOt-tqjlHjq4",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy4wRUM0NDVEMzZDODkxRUQ3",
+      "snippet": {
+        "publishedAt": "2020-10-08T11:12:37Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Lâu Đài Tình Ái - Chí Tài ft. Phương Mỹ Chi | Ngẫu hứng tại C-show",
+        "description": "Ca khúc: Lâu Đài Tình Ái\nSáng tác: Trần Thiện Thanh\nTrình bày: Chí Tài ft. Phương Mỹ Chi\n\n#phuongmychi #chitai #laudaitinhai\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychiofficial\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gWOxgMbBBNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gWOxgMbBBNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gWOxgMbBBNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gWOxgMbBBNM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gWOxgMbBBNM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gWOxgMbBBNM"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "u-5k3_HiFbOJhdeyPnZspf01AiE",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy4zOTExNTAwOERBMTNFRUM4",
+      "snippet": {
+        "publishedAt": "2020-10-04T02:37:51Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Nhỏ Ơi - Chí Tài ft. Phương Mỹ Chi | Phòng trà C-Show",
+        "description": "Ca khúc: Nhỏ Ơi\nSáng tác: Quang Nhật\nTrình bày: Chí Tài ft. Phương Mỹ Chi\n\n#phuongmychi #chitai #NhoOi #nhỏơi #NghesiChiTai\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychiofficial\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dl6zP7lwEBY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dl6zP7lwEBY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dl6zP7lwEBY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dl6zP7lwEBY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dl6zP7lwEBY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Dl6zP7lwEBY"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rKCyBvXHPCKl0PTXhHbTUuhRpdM",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy44NEE4MTNBOUY2MDRFRUU4",
+      "snippet": {
+        "publishedAt": "2020-08-21T03:35:44Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi - Đất Phương Nam - St: Lư Nhất Vũ | Liveshow Little Star - Big Dream",
+        "description": "Ca khúc: Đất Phương Nam\nSáng tác: Lư Nhất Vũ\nTrình bày: Phương Mỹ Chi\n\nCre: 1998 Entertainment\n\n#phuongmychi #datphuongnam #liveshow\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychiofficial\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ci8DWxxUYvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ci8DWxxUYvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ci8DWxxUYvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ci8DWxxUYvA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ci8DWxxUYvA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ci8DWxxUYvA"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AtwrSw0pHpFI8NeHbOT1HLXHjyk",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5CNzc5NTU4RTg3Q0EyRUZE",
+      "snippet": {
+        "publishedAt": "2020-08-09T09:19:19Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi da diết với ca khúc \"Nhạt Nắng\" trong chương trình gây quỹ hướng về Miền Trung",
+        "description": "Ca khúc: Nhạt Nắng\nSáng tác: Y Vân\nTrình bày: Phương Mỹ Chi\n\nPhương Mỹ Chi da diết với ca khúc \"Nhạt Nắng\" trong chương trình gây quỹ hướng về Miền Trung, chung tay đẩy lùi dịch covid19. Trong chương trình, Phương Mỹ Chi được Đàm Vĩnh Hưng và Trường Giang hết lời khen ngợi.\n\n#phuongmychi #nhatnang #chungtayđẩylùicovid19\n\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Tiktok: http://www.tiktok.com/@phuongmychiofficial\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fXJQH5mVNA0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fXJQH5mVNA0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fXJQH5mVNA0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fXJQH5mVNA0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fXJQH5mVNA0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fXJQH5mVNA0"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Tzsh8-0lgfyxb45QqOZrU3VPn6Y",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5GMzZFODZFNzVCN0JFNzhE",
+      "snippet": {
+        "publishedAt": "2020-07-16T05:52:56Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Hoa Trinh Nữ - Phương Mỹ Chi | Liveshow Duyên Phận",
+        "description": "Ca khúc: Hoa Trinh Nữ\nSáng tác: Trần Thiện Thanh\nTrình bày: Phương Mỹ Chi\n\nCre: Unicorn Vietnam\n\n#phuongmychi #hoatrinhnu #live\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jyCzEkR8OG4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jyCzEkR8OG4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jyCzEkR8OG4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jyCzEkR8OG4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jyCzEkR8OG4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jyCzEkR8OG4"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BGj2O9zFIRv8kJ4Nwh9dXyzljF8",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy44QzE1MTg5OTI3Mzk2QjRD",
+      "snippet": {
+        "publishedAt": "2020-03-30T08:12:17Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi trổ tài hát vọng cổ cực ngọt !!!",
+        "description": "Phương Mỹ Chi trổ tài hát vọng cổ cực ngọt !!!\nCredit: Thiếu Niên Nói - Vie Network\n\n#phuongmychi #live #ThieuNienNoi\n\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z1_vRJ-7iLQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z1_vRJ-7iLQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z1_vRJ-7iLQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z1_vRJ-7iLQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z1_vRJ-7iLQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z1_vRJ-7iLQ"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K5TkPLXw_Cq1C-au8I6iZJq9tD4",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy4yMkQ1M0U2NzVEOTA2MTY5",
+      "snippet": {
+        "publishedAt": "2020-03-26T10:09:36Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Gợi Nhớ Quê Hương - Phương Mỹ Chi | Truyền Hình HTV9",
+        "description": "Ca khúc: Gợi Nhớ Quê Hương\nSáng tác: Thanh Sơn\nTrình bày: Phương Mỹ Chi\nCredit: Truyền Hình HTV9\n\n#phuongmychi #live #goinhoquehuong\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QkRdIBmweKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QkRdIBmweKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QkRdIBmweKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QkRdIBmweKY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QkRdIBmweKY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QkRdIBmweKY"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AWM5g6DA3HFxOsGciXWHsztGKtc",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy41ODJFOTA1Mzg2NTFERjQz",
+      "snippet": {
+        "publishedAt": "2020-03-24T11:21:13Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Hạ Buồn - Phương Mỹ Chi | Truyền Hình Đồng Tháp 2019",
+        "description": "Ca khúc: Hạ Buồn\nSáng tác: Thanh Sơn\nTrình bày: Phương Mỹ Chi\nCredit: Truyền Hình Đồng Tháp\n\n#phuongmychi #live #habuon\n\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SNIbTxntq2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SNIbTxntq2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SNIbTxntq2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SNIbTxntq2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SNIbTxntq2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SNIbTxntq2Q"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RVzyt89tGLW5EGbkOa_AZgJcfeA",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5GNjg5RUYzREMzMDcxOUYw",
+      "snippet": {
+        "publishedAt": "2020-03-18T02:57:24Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi - Sầu Đâu Quê Ngoại | Liveshow Quý Bình \"Tình Quê Hương\"",
+        "description": "Ca khúc: Sầu Đâu Quê Ngoại\nSáng tác: Minh Vy\nTrình bày: Phương Mỹ Chi\n\n#phuongmychi #live #saudauquengoai\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e1MaAHjBrxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e1MaAHjBrxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e1MaAHjBrxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e1MaAHjBrxY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e1MaAHjBrxY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e1MaAHjBrxY"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z0aVYXe26MuextieY1ChX2BS8B4",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy4yM0IwNzUxRTc3MTg4Njkw",
+      "snippet": {
+        "publishedAt": "2020-02-24T16:08:54Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "PHƯƠNG MỸ CHI - TINH TUÝ BÁT NHÃ BA LA MẬT ĐA (Thể loại: Dân Ca Nam Bộ)",
+        "description": "TINH TUÝ BÁT NHÃ BA LA MẬT ĐA (Thể loại: Dân Ca Nam Bộ)\nVăn kinh: TT Thích Tuệ Hải\nPhổ nhạc: Yên Lam\nNguồn: Youtube THIỆN HUỆ\n\n#phuongmychi #NhacPhat",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pk-5S15L5Fw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pk-5S15L5Fw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pk-5S15L5Fw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pk-5S15L5Fw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pk-5S15L5Fw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pk-5S15L5Fw"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0qekBc_Ev-4w715xf4phLBOxWFU",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5BNDI5NDg0OENEMDMwMERC",
+      "snippet": {
+        "publishedAt": "2020-02-17T08:05:45Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi lần đầu đem vũ đạo \"ĐƯỜNG VỀ QUÊ\" lên sân khấu - Hội Ngộ Danh Hài 2020",
+        "description": "Ca khúc: Đường Về Quê\nSáng tác: Hamlet Trương\nTrình bày: Phương Mỹ Chi\nVũ đoàn: ABC Kids\nNguồn: HTV Entertainment \n\n✨ MV “ĐƯỜNG VỀ QUÊ” ✨\n\n▪️Link MV Official: https://youtu.be/cG64-Ny6gdo\n▪️Link MV Sing Ver: https://youtu.be/sP0f-5buNmg\n▪️Link MV Dance Ver: https://youtu.be/LE4QTge-JRA\n▪️Link BTS: https://youtu.be/VPK36WgiHFE\n_________________________________________________\nNGHE NHẠC MP3 ONLINE TẠI:\n\n🎵 NhacCuaTui: https://www.nhaccuatui.com/bai-hat/duong-ve-que-phuong-my-chi-sinike.rAAuWIGUIc3A.html\n\n🎵 Spotify: https://open.spotify.com/album/356iAHCQPWtnHdtPxTHqLl?si=0W1pPTKhQ3O9Q6Iy2RX1Dg\n\n🎵 Keeng.vn: http://vip.keeng.vn/audio/Duong-Ve-Que-Phuong-My-Chi,-Sinike-320Kbps/QD51vIJY.html?src=noibat\n\n🎵Apple Music: https://music.apple.com/vn/album/%C4%91%C6%B0%E1%BB%9Dng-v%E1%BB%81-qu%C3%AA-feat-sinike/1493751446?i=1493751449\n\n\n#phuongmychi #duongveque #dacneversion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ad7y6GptAh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ad7y6GptAh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ad7y6GptAh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ad7y6GptAh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ad7y6GptAh8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ad7y6GptAh8"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e_cfLQZaQGlpxoI7pGOdl4wOISs",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5GQ0M4MEE3OTlDNzM0MTAz",
+      "snippet": {
+        "publishedAt": "2020-01-28T12:19:27Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Mời Anh Về Thăm Quê Em - Phương Mỹ Chi | Hội Ngộ Danh Hài 2020 - Tập 3",
+        "description": "Mời Anh Về Thăm Quê Em - Phương Mỹ Chi | Hội Ngộ Danh Hài 2020 - Tập 3\n\n#phuongmychi #moianhvethamqueem\n_______________________________________\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n_______________________________________________________________\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-OTKW94YbpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-OTKW94YbpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-OTKW94YbpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-OTKW94YbpY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-OTKW94YbpY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-OTKW94YbpY"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MolPmOZoYpRXUNk3RwjESs4J7J8",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5BOUY1N0EyNkY3QzlGOEM3",
+      "snippet": {
+        "publishedAt": "2019-10-12T22:35:12Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi - Chiếc Áo Bà Ba | Phòng Trà Đồng Dao (MỚI NHẤT)",
+        "description": "Ca khúc: Chiếc Áo Bà Ba\nSáng tác: Trần Thiện Thanh\nCa sĩ: Phương Mỹ Chi\n\nClip được trích từ đêm nhạc từ thiện tại Phòng Trà Đồng Dao\nNguồn: BTC - NFilm\n\n#phuongmychi #chiecaobaba #live\n___\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyCh...\n___\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/odrMPD2mxWs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/odrMPD2mxWs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/odrMPD2mxWs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/odrMPD2mxWs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/odrMPD2mxWs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "odrMPD2mxWs"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i3NC7pkMyUr6mJkLhJun7I3RTw0",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy44NkRBODFEMUYwNzE0NDcy",
+      "snippet": {
+        "publishedAt": "2019-10-12T22:35:07Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi - Giấc Mơ Cánh Cò | Lần đầu hát live đầy ngọt ngào tại Hà Nội",
+        "description": "Ca khúc: Giấc Mơ Cánh Cò\nSáng tác: Vũ Quốc Việt\nCa sĩ: Phương Mỹ Chi\nClip được trích từ Liveshow 22 năm khóc cười Mr. Vượng Râu tại Hà Nội\n\nNguồn clip: Nụ Cười Vàng Entertainment\n\n#phuongmychi #giacmocanhco #liveshow\n\n___\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n___\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n© Bản quyền thuộc Phương Mỹ Chi\n\n☞ Vui lòng không re-up ☞ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wYRdOjC_EKQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wYRdOjC_EKQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wYRdOjC_EKQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wYRdOjC_EKQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wYRdOjC_EKQ"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZDHm_uc6UjpYSW8etiJu3qfEI04",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy41MkY4MEFEMzE4Q0IyQ0E4",
+      "snippet": {
+        "publishedAt": "2019-10-12T22:35:02Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi - Hình Ảnh Người Em Không Đợi | Liveshow 22 năm khóc cười Mr. Vượng Râu tại Hà Nội",
+        "description": "Ca khúc: Hình Ảnh Người Em Không Đợi\nSáng tác: Hoàng Thi Thơ\nCa sĩ: Phương Mỹ Chi\nClip được trích từ Liveshow 22 năm khóc cười Mr. Vượng Râu tại Hà Nội\n\nNguồn clip: Nụ Cười Vàng Entertainment\n\n#phuongmychi #hinhanhnguoiemkhongdoi #liveshow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_TV2wquNGSQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_TV2wquNGSQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_TV2wquNGSQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_TV2wquNGSQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_TV2wquNGSQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_TV2wquNGSQ"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WP0S7K0PaL8ELTq5cFKr4FVl6z8",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy4xM0Y3OTRDQTIwMDREQ0FB",
+      "snippet": {
+        "publishedAt": "2019-08-10T10:35:55Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi - Mời Anh Về Thăm Quê Em | Lần Đầu Hát Live Tại Hải Phòng",
+        "description": "Ca khúc: Mời Anh Về Thăm Quê Em\nSáng tác: Thuỳ Linh\nTrình bày: Phương Mỹ Chi\nCre: Shining Media\n\n#phuongmychi #moianhvethamqueem #live\n\n--------------------------------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi/\n☞ Youtube: https://www.youtube.com/user/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyCh...\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Video Clip Mới Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GldJ0ymaDAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GldJ0ymaDAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GldJ0ymaDAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GldJ0ymaDAs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GldJ0ymaDAs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GldJ0ymaDAs"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AbcH35DK5WTg75tUT2-P8myBsdk",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy44QzA1MTlDRDBERERGNDhG",
+      "snippet": {
+        "publishedAt": "2018-11-03T10:38:22Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi - Tình Mẹ | Liveshow Ngọc Sơn - Dấu ấn số 13",
+        "description": "Phương Mỹ Chi - Tình Mẹ \nDấu ấn số 13 Liveshow Ngọc Sơn diễn ra vào tối 06/09/2014  có 15 tiết mục với 25 ca khúc. Trong Liveshow này Phương Mỹ Chi sẽ cùng song ca với ca sĩ Ngọc Sơn ca khúc Tình mẹ. Đây là lần đầu tiên Phương Mỹ Chi góp mặt trong liveshow Dấu ấn sau lần lỡ hẹn với liveshow của Hiền Thục.\n\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n\nBy ©Fancam Phương Mỹ Chi. All rights reserved.\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!\n\nTag: phuong my chi liveshow dau an ngoc son, phuong my chi tinh me, phuong my chi ngoc son, Dấu ấn số 13] Liveshow Ngọc Sơn",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J7Y2w0oTQxE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J7Y2w0oTQxE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J7Y2w0oTQxE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J7Y2w0oTQxE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J7Y2w0oTQxE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J7Y2w0oTQxE"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-fnvcBmvA98o7MoTNKoRHzRK0n4",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5CNDEwQURGQjkwNDIzRUYw",
+      "snippet": {
+        "publishedAt": "2017-04-02T05:22:57Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Giấc Ngủ Đầu Nôi, See You Again - Phương Mỹ Chi",
+        "description": "Giấc Ngủ Đầu Nôi - Phương Mỹ Chi\nVũng Tàu 04-06-2016\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MLL0i1OJdAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MLL0i1OJdAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MLL0i1OJdAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MLL0i1OJdAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MLL0i1OJdAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MLL0i1OJdAk"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xtd4OyuWNYd2dUlIlMlHxQdZfXU",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5COUU4NzEzMzg1MkZFQjlE",
+      "snippet": {
+        "publishedAt": "2017-04-02T05:22:57Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Bà Năm, Về Miền Tây - Phương Mỹ Chi",
+        "description": "Bà Năm, Về Miền Tây - Phương Mỹ Chi\nVũng Tàu 03-06-2016\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5nLgFIjbsBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5nLgFIjbsBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5nLgFIjbsBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5nLgFIjbsBI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5nLgFIjbsBI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5nLgFIjbsBI"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hUEWQE6JyQUBvtF2laylnJmkOdg",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy40OEMzNzFDQjA5Q0YxMjQ3",
+      "snippet": {
+        "publishedAt": "2016-06-29T02:39:34Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "[Ngẫu Hứng] Con Đường Xưa Em Đi - Quang Lê ft. Phương Mỹ Chi",
+        "description": "[Ngẫu Hứng] Con Đường Xưa Em Đi - Quang Lê ft. Phương Mỹ Chi\nVũng Tàu 03-06-2016\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T-mXr3GzdjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T-mXr3GzdjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T-mXr3GzdjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T-mXr3GzdjY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T-mXr3GzdjY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "T-mXr3GzdjY"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sny3JhzxmAHmxP6Dg5xEr-daqoc",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy42MzYyQ0E2MUE4ODAzQkU5",
+      "snippet": {
+        "publishedAt": "2016-06-18T16:26:51Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi hát chay \"Chuyện Tình La Lan\" - BIẾN HÓA HOÀN HẢO",
+        "description": "Phương Mỹ Chi hát chay \"Chuyện Tình La Lan\" - BIẾN HÓA HOÀN HẢO\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fGJemMwojMo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fGJemMwojMo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fGJemMwojMo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fGJemMwojMo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fGJemMwojMo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fGJemMwojMo"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jodofX9NFg12ROjIHTR9PCqTCCU",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy43RDFFNUM4NkUwRDhEMjRD",
+      "snippet": {
+        "publishedAt": "2016-05-13T05:42:13Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Sóc Sờ Bai Sóc Trăng - Phương Mỹ Chi | Tây Ninh 01.05.2016",
+        "description": "Sóc Sờ Bai Sóc Trăng - Phương Mỹ Chi | Tây Ninh 01.05.2016\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fIDvps6J5eU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fIDvps6J5eU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fIDvps6J5eU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fIDvps6J5eU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fIDvps6J5eU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fIDvps6J5eU"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HdJ_IGphGrJfBptqAW9BmfwIHJ4",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5EQkEyODM0NTk2MUFEQkYz",
+      "snippet": {
+        "publishedAt": "2016-05-13T05:42:13Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Đêm Gành Hào Nhớ Điệu Hoài Lang - Phương Mỹ Chi | Tây Ninh 01.05.2016",
+        "description": "Đêm Gành Hào Nhớ Điệu Hoài Lang - Phương Mỹ Chi | Tây Ninh 01.05.2016\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jL9B1s_Zg8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jL9B1s_Zg8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jL9B1s_Zg8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jL9B1s_Zg8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jL9B1s_Zg8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jL9B1s_Zg8E"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hG8IS6BuxPU86kkICkk3SiDk4B0",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy4xMTE0RDU2NTlEMTkxNzZB",
+      "snippet": {
+        "publishedAt": "2016-05-13T05:42:13Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Lạy Phật Quan Âm - Phương Mỹ Chi l Chùa Thanh Long",
+        "description": "Lạy Phật Quan Âm - Phương Mỹ Chi\nLễ đặt đá xây dựng chùa Thanh Long\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyCh...\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FjBjzdE5WgU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FjBjzdE5WgU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FjBjzdE5WgU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FjBjzdE5WgU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FjBjzdE5WgU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FjBjzdE5WgU"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HmShwW0rvw9_FLD8a07TSyu2XU0",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy4zNDY1MzYwMjYwQUE2QTlD",
+      "snippet": {
+        "publishedAt": "2016-05-13T05:42:13Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Hình Bóng Quê Nhà - Quang Lê ft. Phương Mỹ Chi | Bắc Ninh (16-04-2016)",
+        "description": "Hình bóng Quê Nhà - Quang Lê ft. Phương Mỹ Chi\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NpzirEWF2iM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NpzirEWF2iM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NpzirEWF2iM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NpzirEWF2iM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NpzirEWF2iM"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GOXG5XpBY4YDL9aG8tpAPiECVeE",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5EMzgyRkY2QzI3NjdDMDM4",
+      "snippet": {
+        "publishedAt": "2016-05-13T05:42:13Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Nhật Ký Cho Ba - Phương Mỹ Chi | Bắc Ninh (16-04-2016)",
+        "description": "Nhật Ký Cho Ba - Phương Mỹ chi\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/StAn_Qd6trg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/StAn_Qd6trg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/StAn_Qd6trg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/StAn_Qd6trg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "StAn_Qd6trg"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a6uKuclmrh5Ulq1NIH1sZ0tDGEo",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy4yNDgyN0RCRjQ1QTUxRUMy",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Hình Bóng Quê Nhà - Quang Lê Ft Phương Mỹ Chi | Hát Trên Quê Hương - Bình Dương",
+        "description": "Live show 'Hát trên quê hương ' Bình Dương\nCông ty giải trí Đồng Dao mời nam ca sĩ hải ngoại Quang Lê cùng Phương Mỹ Chi thực hiện một chương trình riêng vào tối  20.12 tại Trung tâm hội nghị - triển lãm thành phố mới Bình Dương.\nVẫn với chủ đề Hát trên quê hương cùng sự dàn dựng mới từ sân khấu đến âm nhạc, live show có sự tham gia của các nghệ sĩ khách mời thuộc dòng nhạc trữ tình, quê hương như: danh ca Phương Dung, Dương Ngọc Thái, nghệ sĩ Thanh Bạch, quán quân Gương mặt thân quen 2014 Hoài Lâm.\nHát trên quê hương lần này của Quang Lê - Phương Mỹ Chi là một trong những chương trình được dàn dựng quy mô, hiện đại. Toàn bộ ê kíp thực hiện đều từ TP HCM về Thành phố mới Bình Dương làm việc từ vài ngày trước đó.\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gezeqnOWvkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gezeqnOWvkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gezeqnOWvkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gezeqnOWvkk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gezeqnOWvkk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gezeqnOWvkk"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "56306GmBdrDCrwEgs37Bvej1n54",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy45QUZGQkMzMEZDNTZBREY3",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Nhật Ký Cho Ba - Phương Mỹ Chi | Đêm nhạc trữ tình Quang Lê - Phương Mỹ Chi",
+        "description": "Nhật Ký Cho Ba - Phương Mỹ Chi | Đêm nhạc trữ tình Quang Lê - Phương Mỹ Chi \nMini show Quang Lê - Phương Mỹ Chi 15/1 Phòng Trà Nam Quang.\nTrong đêm nhạc C7 đã thể hiện 5 ca khúc: Chiều Nước Lũ, Áo Mới Cà Mau, Còn Thương Rau Đắng Mọc Sau Hè, Nhật Ký Cho Ba, Hình Bóng Quê Nhà.\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zNVm-HKyYNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zNVm-HKyYNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zNVm-HKyYNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zNVm-HKyYNQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zNVm-HKyYNQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zNVm-HKyYNQ"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lMp7GNxPsuN-Ya86ae8DAJisHAY",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy43OTZFNzk1NjVDNDVBRjZG",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Em Đi Trên Cỏ Non - Trấn thành ft. Phương Mỹ Chi | Offline FC Phương Mỹ Chi lần 2",
+        "description": "Em Đi Trên Cỏ Non - Trấn thành ft. Phương Mỹ Chi\nOffline Phương Mỹ Chi Lần 2 chủ đề \"Tri Ân - Hội Ngộ - Mừng Sinh Nhật\".\nMừng sinh nhật lần thứ 12 của bé Phương Mỹ Chi. Chúc mừng nhất năm Bài Hát Yêu Thích, gặp gỡ, giao lưu với gia đình FC nhằm gửi lời cảm ơn đến tất cả cô chú anh chị khắp mọi miền, trong và ngoài nước trong thời gian vừa qua đã đồng hành, ủng hộ, dõi theo cô bé dân ca Phương Mỹ Chi trên con đường nghệ thuật.\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zjCKrTs3FNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zjCKrTs3FNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zjCKrTs3FNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zjCKrTs3FNM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zjCKrTs3FNM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zjCKrTs3FNM"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UvBhpAuBn_n5Y1MJvtPF2OrMQZ8",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5FN0MwOEIwNDJFMDI5RDhB",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "[Hát Chay] Hình Bóng Quê Nhà - Quang Lê ft. Phương Mỹ Chi | Offline FC Phương Mỹ Chi Lần 2",
+        "description": "[Hát Chay] Hình Bóng Quê Nhà - Quang Lê ft. Phương Mỹ Chi\nOffline Phương Mỹ Chi Lần 2 chủ đề \"Tri Ân - Hội Ngộ - Mừng Sinh Nhật\".\nMừng sinh nhật lần thứ 12 của bé Phương Mỹ Chi. Chúc mừng nhất năm Bài Hát Yêu Thích, gặp gỡ, giao lưu với gia đình FC nhằm gửi lời cảm ơn đến tất cả cô chú anh chị khắp mọi miền, trong và ngoài nước trong thời gian vừa qua đã đồng hành, ủng hộ, dõi theo cô bé dân ca Phương Mỹ Chi trên con đường nghệ thuật.\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ds-Vc3nhKQ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ds-Vc3nhKQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ds-Vc3nhKQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ds-Vc3nhKQ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ds-Vc3nhKQ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ds-Vc3nhKQ4"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hjToarEwrmyQ9-gHwN8xqdm8tdg",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy4wMkM3QkFEQzQ4QTU0MTNB",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "[FULL] Official Offline FC Phương Mỹ Chi lần 2 - Phần 1",
+        "description": "[FULL] Official Offline FC Phương Mỹ Chi lần 2 - Phần 1\nFULL Sinh Nhật Phương Mỹ Chi lần thứ 12\nOffline FC Phương Mỹ Chi Lần 2 chủ đề \"Tri Ân - Hội Ngộ - Mừng Sinh Nhật\".\nMừng sinh nhật lần thứ 12 của bé Phương Mỹ Chi. Chúc mừng nhất năm Bài Hát Yêu Thích, gặp gỡ, giao lưu với gia đình FC nhằm gửi lời cảm ơn đến tất cả cô chú anh chị khắp mọi miền, trong và ngoài nước trong thời gian vừa qua đã đồng hành, ủng hộ, dõi theo cô bé dân ca Phương Mỹ Chi trên con đường nghệ thuật.\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JwRzqn8LUrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JwRzqn8LUrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JwRzqn8LUrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JwRzqn8LUrs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JwRzqn8LUrs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JwRzqn8LUrs"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fWFoBV4Eq_MB_juNnRWxhveRPQ4",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5CNTQ4NEJFQThFNzg4Q0Qz",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Về Miền Tây - Phương Mỹ Chi | Từ thiện All Free Life",
+        "description": "Về Miền Tây - Phương Mỹ Chi | Từ thiện All Free Life\nVề Miền Tây - Ca nhạc từ thiện Việt Trì - Phú Thọ tối 7-2\nChương trình ca nhạc từ thiện All Free Life nhận được sự cổ vũ rất nhiệt tình từ khán giả tại Việt Trì - Phú Thọ. Có nhiều khán giả không quản đường xa cũng đến với VT - PT để xem C7 diễn. Chương trình có sự tham gia của: Phương Mỹ Chi, Hoàng Thùy Linh, MC Thành Trung, NS hài Chiến Thắng, Vanh Leg, Emily, LK, Chung Tử Lưu\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Go1W1-hl9EU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Go1W1-hl9EU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Go1W1-hl9EU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Go1W1-hl9EU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Go1W1-hl9EU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Go1W1-hl9EU"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oiewAIkeKu5DhEUrcIZ-p_BD44Q",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy44NEFDRUNBRDQwODFGNEU1",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "[Ngẫu Hứng] Cup Song - Trống Cơm - Phương Mỹ Chi | Lễ trao giải BHYT Năm 2014",
+        "description": "[Ngẫu Hứng] Cup Song - Trống Cơm - Phương Mỹ Chi\n\"Cup Song - Phương Mỹ Chi\"\nTrống Cơm - Phương Mỹ Chi\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mwVOgPjrhz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mwVOgPjrhz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mwVOgPjrhz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mwVOgPjrhz8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mwVOgPjrhz8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mwVOgPjrhz8"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2WEhmA80RX7-inWZpzPn0in5iU0",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5DMTA0RkI2RTNGNUQ0Njgw",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Về Miền Tây - Phương Mỹ Chi | HTV Award 2015 [Fancam HD]",
+        "description": "Về Miền Tây - Phương Mỹ Chi | HTV Award 2015 [Fancam HD]\nXuất hiện mở màn cho đêm Liveshow 3 Giải thưởng truyền hình HTV - \"HTV Awards 2015\" vào tối 28.3.\nĐến với chương trình, Phương Mỹ Chi trình diễn ca khúc Về miền Tây cùng vũ đoàn Vầng Trăng.\n\"Phương Mỹ Chi HTV Award 2015\"\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b1wfYZGhWiI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b1wfYZGhWiI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b1wfYZGhWiI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b1wfYZGhWiI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b1wfYZGhWiI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b1wfYZGhWiI"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "12Xk2uNT7LYZv-WOgQGs8fiVk4s",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy45REM1NzQ1MDM2OUZDNDMx",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Hành Trình Trên Đất Phù Sa - Phương Mỹ Chi | Hát trên quê hương 4",
+        "description": "Hành Trình Trên Đất Phù Sa - Phương Mỹ Chi | Hát trên quê hương 4\nLiveshow Hát trên quê hương lần 4 với chủ đề Tình yêu & Nỗi nhớ diễn ra tại Sân khấu ca nhạc Lan Anh, TP.HCM ngày 25/04/2015\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pA2u6uFYWV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pA2u6uFYWV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pA2u6uFYWV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pA2u6uFYWV0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pA2u6uFYWV0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pA2u6uFYWV0"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6wNXVGJC6yJfL9NToPik9dwcDaM",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy44MjZDNDYzQjgwQzkzQzkz",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Áo Mới Cà Mau - Phương Mỹ Chi | Hát trên quê hương 4",
+        "description": "Áo Mới Cà Mau - Phương Mỹ Chi | Hát trên quê hương 4\nLiveshow Hát trên quê hương lần 4 với chủ đề Tình yêu & Nỗi nhớ diễn ra tại Sân khấu ca nhạc Lan Anh, TP.HCM ngày 25/04/2015\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z00qOH-oOho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z00qOH-oOho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z00qOH-oOho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z00qOH-oOho/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z00qOH-oOho/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z00qOH-oOho"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GoSRfWlU9_g7K2ltD9DJJpXDIYQ",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5DM0UwMkNDRTIwQUNDMjE2",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Còn Thương Rau Đắng Mọc Sau Hè - Hoài Lâm ft. Phương Mỹ Chi  | Lưu diễn Châu Âu | 28/4 - 5/5/2015",
+        "description": "Còn Thương Rau Đắng Mọc Sau Hè - Hoài Lâm ft. Phương Mỹ Chi\nHoài Lâm lần đầu song ca cùng Phương Mỹ Chi\nPhương Mỹ Chi và Hoài Lâm đã có sự kết hợp với nhau trong đợt lưu diễn Châu Âu này. Sự kết hợp này được khán giả tại các nước rất thích thú và cổ vũ nhiệt tình.\n\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n\ntag: phuong my chi hoai lam",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GM0tFASSWHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GM0tFASSWHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GM0tFASSWHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GM0tFASSWHU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GM0tFASSWHU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GM0tFASSWHU"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j3x8h2bsVPTn95ipzwFTSOiXxys",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy43OEM5M0IwMkQ1MzBCMUI1",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Ơn Nghĩa Sinh Thành - Phương Mỹ Chi | Chùa thiên trúc",
+        "description": "Ơn Nghĩa Sinh Thành - Phương Mỹ Chi | Chùa thiên trúc\nƠn Nghĩa Sinh Thành - Phương Mỹ Chi\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U5Wnt1g6Xfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U5Wnt1g6Xfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U5Wnt1g6Xfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U5Wnt1g6Xfw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U5Wnt1g6Xfw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U5Wnt1g6Xfw"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UOtPCHWnpByErJieVbE01-6Yx6U",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy44OEYxMzRDRDg1REM4QjIw",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Về Miền Tây - Phương Mỹ chi | \"Nâng bước ngày mai\"",
+        "description": "Về Miền Tây - Phương Mỹ chi | \"Nâng bước ngày mai\"\nPhương Mỹ chi Mỹ Tâm chương trình ca nhạc \"Nâng bước ngày mai\" \n\"Nâng bước ngày mai\" là chương trình ca nhạc kết hợp trao học bổng cho trẻ em nghèo hiếu học của quỹ từ thiện Mỹ Tâm Foundation. Chương trình bắt đầu từ năm 2008 và đã góp phần giúp đỡ rất nhiều thế hệ học sinh, sinh viên có hoàn cảnh khó khăn tiếp tục việc học. Để tiếp nối hành động ý nghĩa này, tại đêm nhạc ở Nhà hát Bến Thành ngày 4/9, nữ ca sĩ Mỹ Tâm đã trao tặng 200 phần học bổng trị giá 2 triệu đồng/ 1 suất cho các em học sinh giỏi có hoàn cảnh khó khăn trước thềm năm học mới 2015 - 2016.\nChia sẻ về cảm xúc khi tham gia đêm nhạc, Phương Mỹ Chi cho biết mình rất xúc động trước hoàn cảnh của các bé và mong muốn một vài năm nữa cũng sẽ đóng góp cùng với Mỹ Tâm cho quỹ từ thiện này\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dMrJUlfwq54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dMrJUlfwq54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dMrJUlfwq54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dMrJUlfwq54/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dMrJUlfwq54/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dMrJUlfwq54"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NDjOOrURwXwOQF7N86JAzJhqrAc",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy43OTQxRDdENkQwNEZGMkQy",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Mẹ Tôi - Nam Cường ft. Phương Mỹ Chi | Hương Trầm Nở Hoa Tâm",
+        "description": "Mẹ Tôi - Nam Cường ft Phương Mỹ Chi | Hương Trầm Nở Hoa Tâm-\nTrở về với tà áo dài quen thuộc , chị 7 và chú Nakun Nam Cường xuất hiện trong chương trình từ thiện \" Hương Trầm Nở Hoa Tâm \" tại sân khấu ca nhạc Lan Anh.\n---------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ryT4SA5O7eQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ryT4SA5O7eQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ryT4SA5O7eQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ryT4SA5O7eQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ryT4SA5O7eQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ryT4SA5O7eQ"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g9W1Vo-SE0o_Uc9n7MAUzCKtq0I",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5BNTZDRUVBRkUwRDU3N0FF",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Mẹ Tôi theo phiên bản \"quậy\" | Offline FC Phương Mỹ Chi Lần 3",
+        "description": "Mẹ Tôi theo phiên bạn \"quậy\" | Offline FC Phương Mỹ Chi Lần 3\nThực hiện: Zoom Communication Group https://www.facebook.com/zoomcg/\n\nChiều 10/1, sau buổi ra mắt sản phẩm âm nhạc mới phim ngắn ca nhạc Nhật ký cho ba , ca sĩ nhí Phương Mỹ Chi đã có buổi gặp gỡ, giao lưu với những khán giả thân thiết tại phòng trà Đồng Dao, TP HCM.\n\nĐón sinh nhật 13 tuổi, Phương Mỹ Chi ngập tràn hạnh phúc khi có mặt đông đủ người thân, bạn bè, người hâm mộ và đặc biệt sự góp mặt của các nghệ sĩ thân thiết như: Ca sĩ Nam Cường, Khánh Ngọc, các bé Gia Quý, Minh Khang, Bảo Ngọc trong chương trình Gương mặt thân quen nhí.\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyCh...\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9dfyQVjdqjI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9dfyQVjdqjI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9dfyQVjdqjI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9dfyQVjdqjI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9dfyQVjdqjI"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7cfEao4AbZl4NiO8QEfy_FVKINk",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy42MzE1QTJBMEI3NjI4Rjk5",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wDgw6BtH3RA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JCk0FHM0iUVyYvSovz0JVe5ig2o",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy43RjU3NEIyMjFBMEIxQ0ZF",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Phương Mỹ Chi \"hỏi xoáy đáp xoay\" ba nuôi Quang Lê trong ngày sinh nhật",
+        "description": "Phương Mỹ Chi \"hỏi xoáy đáp xoay\" ba nuôi Quang Lê trong ngày sinh nhật được tổ chức tại Phòng trà Đồng Dao ngày 24/01/2016 vừa qua.\nMặc dù phải diễn show từ thiện tại Chùa Hoằng Pháp (Hóc Môn) nhưng Phương Mỹ Chi vẫn cố gắng tới phòng trà Đồng Dao để chúc mừng sinh nhật ba nuôi Quang Lê.\nHai ba con đã có một màn \"hỏi xoáy - đáp xoáy\" rất thú vị.\n\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UOd3i9UgnRU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UOd3i9UgnRU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UOd3i9UgnRU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UOd3i9UgnRU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UOd3i9UgnRU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UOd3i9UgnRU"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_D_uXxQDLPWyj4wvhgzByaXqRRc",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy41ODJDREU4NjNDRTM2QkNC",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "[FULL] Official Offline FC Phương Mỹ Chi lần 3",
+        "description": "[FULL] Official Offline FC Phương Mỹ Chi lần 3\nThực hiện: Zoom Communication Group https://www.facebook.com/zoomcg/\n\nChiều 10/1, sau buổi ra mắt sản phẩm âm nhạc mới phim ngắn ca nhạc Nhật ký cho ba , ca sĩ nhí Phương Mỹ Chi đã có buổi gặp gỡ, giao lưu với những khán giả thân thiết tại phòng trà Đồng Dao, TP HCM.\n\nĐón sinh nhật 13 tuổi, Phương Mỹ Chi ngập tràn hạnh phúc khi có mặt đông đủ người thân, bạn bè, người hâm mộ và đặc biệt sự góp mặt của các nghệ sĩ thân thiết như: Ca sĩ Nam Cường, Khánh Ngọc, các bé Gia Quý, Minh Khang, Bảo Ngọc trong chương trình Gương mặt thân quen nhí.\n\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6wyc5OApskY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6wyc5OApskY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6wyc5OApskY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6wyc5OApskY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6wyc5OApskY"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J5yW5W2f77hAmI8SjOgNMRoygkg",
+      "id": "UEwzZHV2M3AzU2pLVkJkbnBHNVRqSTBOZm9GT1NLeXltMy5ENjg2QjQ3OTVDOUE2QzYw",
+      "snippet": {
+        "publishedAt": "2016-05-10T06:42:46Z",
+        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
+        "title": "Cánh Thiệp Đầu Xuân - Phương Mỹ Chi | Phòng trà WE",
+        "description": "Cánh Thiệp Đầu Xuân - Phương Mỹ Chi\n----------------------------------------\u00ad\u00ad\u00ad\u00ad-------------------------------------\u00ad-\u00ad-\u00ad-\u00ad--------------\n▶ FOLLOW PHƯƠNG MỸ CHI OFFICIAL:\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Youtube: https://www.youtube.com/c7pmc\n☞ Twitter: https://twitter.com/mychiofficial\n☞ Google+ Page: http://google.com/+c7pmc\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n========================================\u00ad==\nNhớ LIKE And SUBSCRIBE Để Nghe Những Bản Nhạc Hay Nhất \n======CHÚC CÁC BẠN NGHE NHẠC VUI VẺ=======\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n\nBy ©Fancam Phương Mỹ Chi ¤ PLEASE DO NOT RE-UPLOAD!\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: chi7pmc@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: chi7pmc@gmail.com. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kWWG2RFwNSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kWWG2RFwNSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kWWG2RFwNSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kWWG2RFwNSI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Phương Mỹ Chi",
+        "playlistId": "PL3duv3p3SjKVBdnpG5TjI0NfoFOSKyym3",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kWWG2RFwNSI"
+        },
+        "videoOwnerChannelTitle": "Phương Mỹ Chi",
+        "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
+      }
+    }
+	,	
     {
       "kind": "youtube#playlistItem",
       "etag": "4-aI3KKZoiMxFLzspkAcXput2Tc",

@@ -474,53 +474,7 @@
           "videoOwnerChannelId": "UCGRIV5jOtKyAibhjBdIndZQ"
         }
       },
-     
-
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "myLkiFvTHeZyYnqHR-q2O4PVquc",
-      "id": "VVVHUklWNWpPdEt5QWliaGpCZEluZFpRLlJ5NUdhLUZjdklR",
-      "snippet": {
-        "publishedAt": "2020-12-31T06:49:31Z",
-        "channelId": "UCGRIV5jOtKyAibhjBdIndZQ",
-        "title": "ALBUM TẾT 2021 - PHƯƠNG MỸ CHI",
-        "description": "ALBUM TẾT 2021 - PHƯƠNG MỸ CHI\n\n#PhuongMyChi #AlbumTet2021 #HienThuc #TrungQuang #Sinike\n#PMCGroup #METUBNetwork\n\n#VeQueAnTet #Gaixuan #Cauchuyendaunam #DuongVeQue #Motlandangdo #TetsungtucTetdoanvien #Canhthiepdauxuan\n\n\n🔥🛎 Follow Phương Mỹ Chi trên:\n☞ Tiktok: www.tiktok.com/@phuongmychiofficial\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi\n☞ Youtube: https://www.youtube.com/user/C7PMC\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua. Ủng hộ kênh bằng cách bấm đăng ký và nhận thông báo từ kênh nhé!\n\n© Copyright by Phương Mỹ Chi\n© Copyright by Phuong My Chi ☞ Do not Reup\n\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: pmcgroup.official@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: pmcgroup.official@gmail.com. Thank you!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ry5Ga-FcvIQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ry5Ga-FcvIQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ry5Ga-FcvIQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Ry5Ga-FcvIQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Ry5Ga-FcvIQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Phương Mỹ Chi",
-        "playlistId": "UUGRIV5jOtKyAibhjBdIndZQ",
-        "position": 0,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Ry5Ga-FcvIQ"
-        }
-      }
-    },
+  
     {
       "kind": "youtube#playlistItem",
       "etag": "ji9O9X5GDk0CrzzLjQtxtyijy0A",
